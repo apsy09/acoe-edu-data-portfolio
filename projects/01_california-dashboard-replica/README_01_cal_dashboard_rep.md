@@ -1,110 +1,69 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "227662b8-adf9-4478-bff1-5130e3b3d74b",
-   "metadata": {},
-   "source": [
-    "# California K–12 Dashboard (Replica) — Chronic Absenteeism"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "68dba44d-a211-48e3-a60d-5a5e61f66e8d",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "**Purpose:** Demonstrate the ability to ingest public K–12 data, compute equity-minded KPIs, and present decision-useful visuals aligned with California accountability practices.\n",
-    "\n",
-    "**Audience:** District/County leaders, school boards, community partners\n",
-    "\n",
-    "**Why it matters for ACOE:**  \n",
-    "- County/district roll-ups mirror **agency-wide reporting** needs.  \n",
-    "- Disaggregation + `gap_vs_all` foreground **equity**.  \n",
-    "- Small-N suppression + de-identification reflect **FERPA-minded data governance**.  \n",
-    "- Clear visuals + a tiny app show **storytelling for non-technical stakeholders**.\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Objectives\n",
-    "- Reproduce a simplified **California School Dashboard** view for **Chronic Absenteeism**.  \n",
-    "- Roll up from finest grain to **District, County, State** with **weighted** calculations.  \n",
-    "- Surface **equity gaps** (subgroup vs *All Students*).  \n",
-    "- Export reproducible tables and presentation-ready figures.\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Data\n",
-    "- **Source:** California Dept. of Education (CDE) chronic absenteeism files (public).  \n",
-    "- **Grain:** School (preferred), or District if that’s what’s available.  \n",
-    "- **Key fields used:**  \n",
-    "  `academic_year, aggregate_level, county/district/school codes & names, reporting_category (subgroup), chronicabsenteeismeligiblecumulativeenrollment (cohort), chronicabsenteeismcount, chronicabsenteeismrate`\n",
-    "\n",
-    "> Place raw CSVs in `data/raw/`. The notebook normalizes headers and types.\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Methods (Notebooks)\n",
-    "1. **`notebooks/01_ingest_clean.ipynb`**  \n",
-    "   - Auto-detect delimiter & header, normalize column names, parse academic year, clean subgroup labels.  \n",
-    "   - Outputs cleaned files to `data/interim/*_clean.(csv|parquet)`.\n",
-    "\n",
-    "2. **`notebooks/02_kpi_calculations.ipynb`**  \n",
-    "   - Selects **base grain** (School if available).  \n",
-    "   - **Weighted KPI:** `chronic_absent_rate = sum(chronic_absent_count) / sum(cohort)`  \n",
-    "   - **Derived KPI:** `non_chronic_rate = 1 - chronic_absent_rate`  \n",
-    "   - **Equity gap:** `gap_vs_all = subgroup_rate - all_students_rate` (same geo/year)  \n",
-    "   - **Privacy:** Blank rates where `cohort < 10`.  \n",
-    "   - Saves:\n",
-    "     - `data/processed/kpi_chronic_wide_all_levels.csv`  \n",
-    "     - `data/processed/kpi_chronic_long_all_levels.csv`  \n",
-    "     - Per-level splits: `kpi_chronic_wide_{district|county|state}.csv`\n",
-    "\n",
-    "3. **`notebooks/03_viz_exports.ipynb`**  \n",
-    "   - Exports PNGs + companion CSVs to `projects/01_california-dashboard-replica/assets/`, e.g.:  \n",
-    "     - `top15_districts_chronic_<YEAR>.png`  \n",
-    "     - `best15_districts_chronic_<YEAR>.png`  \n",
-    "     - `largest_equity_gaps_<YEAR>.png`  \n",
-    "     - `trend_chronic_<district>.png`  \n",
-    "     - `subgroup_profile_<district>_<YEAR>.png`\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Quick Repro Steps\n",
-    "```bash\n",
-    "# 1) create & activate env\n",
-    "python -m venv .venv\n",
-    "source .venv/bin/activate        # Windows: .venv\\Scripts\\Activate.ps1\n",
-    "pip install --upgrade pip\n",
-    "\n",
-    "# 2) install deps\n",
-    "pip install pandas numpy matplotlib streamlit\n",
-    "\n",
-    "# 3) run notebooks in order (01 → 02 → 03)\n",
-    "# (Use JupyterLab or VS Code. Ensure raw data is in data/raw/)\n"
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.11.5"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# California K–12 Dashboard (Replica) — Chronic Absenteeism
+**Purpose:** Demonstrate the ability to ingest public K–12 data, compute equity-minded KPIs, and present decision-useful visuals aligned with California accountability practices.
+
+**Audience:** District/County leaders, school boards, community partners
+
+**Why it matters for ACOE:**  
+- County/district roll-ups mirror **agency-wide reporting** needs.  
+- Disaggregation + `gap_vs_all` foreground **equity**.  
+- Small-N suppression + de-identification reflect **FERPA-minded data governance**.  
+- Clear visuals + a tiny app show **storytelling for non-technical stakeholders**.
+
+---
+
+## Objectives
+- Reproduce a simplified **California School Dashboard** view for **Chronic Absenteeism**.  
+- Roll up from finest grain to **District, County, State** with **weighted** calculations.  
+- Surface **equity gaps** (subgroup vs *All Students*).  
+- Export reproducible tables and presentation-ready figures.
+
+---
+
+## Data
+- **Source:** California Dept. of Education (CDE) chronic absenteeism files (public).  
+- **Grain:** School (preferred), or District if that’s what’s available.  
+- **Key fields used:**  
+  `academic_year, aggregate_level, county/district/school codes & names, reporting_category (subgroup), chronicabsenteeismeligiblecumulativeenrollment (cohort), chronicabsenteeismcount, chronicabsenteeismrate`
+
+> Place raw CSVs in `data/raw/`. The notebook normalizes headers and types.
+
+---
+
+## Methods (Notebooks)
+1. **`notebooks/01_ingest_clean.ipynb`**  
+   - Auto-detect delimiter & header, normalize column names, parse academic year, clean subgroup labels.  
+   - Outputs cleaned files to `data/interim/*_clean.(csv|parquet)`.
+
+2. **`notebooks/02_kpi_calculations.ipynb`**  
+   - Selects **base grain** (School if available).  
+   - **Weighted KPI:** `chronic_absent_rate = sum(chronic_absent_count) / sum(cohort)`  
+   - **Derived KPI:** `non_chronic_rate = 1 - chronic_absent_rate`  
+   - **Equity gap:** `gap_vs_all = subgroup_rate - all_students_rate` (same geo/year)  
+   - **Privacy:** Blank rates where `cohort < 10`.  
+   - Saves:
+     - `data/processed/kpi_chronic_wide_all_levels.csv`  
+     - `data/processed/kpi_chronic_long_all_levels.csv`  
+     - Per-level splits: `kpi_chronic_wide_{district|county|state}.csv`
+
+3. **`notebooks/03_viz_exports.ipynb`**  
+   - Exports PNGs + companion CSVs to `projects/01_california-dashboard-replica/assets/`, e.g.:  
+     - `top15_districts_chronic_<YEAR>.png`  
+     - `best15_districts_chronic_<YEAR>.png`  
+     - `largest_equity_gaps_<YEAR>.png`  
+     - `trend_chronic_<district>.png`  
+     - `subgroup_profile_<district>_<YEAR>.png`
+
+---
+
+## Quick Repro Steps
+```bash
+# 1) create & activate env
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\Activate.ps1
+pip install --upgrade pip
+
+# 2) install deps
+pip install pandas numpy matplotlib streamlit
+
+# 3) run notebooks in order (01 → 02 → 03)
+# (Use JupyterLab or VS Code. Ensure raw data is in data/raw/)
