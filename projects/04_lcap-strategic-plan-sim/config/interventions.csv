@@ -1,0 +1,7 @@
+lever,applies_to,annual_effect_pp,cost_estimate,notes
+Tier1_Family_Engagement,All,1.0,Low,Texting nudges; positive attendance framing
+Tier2_3_6_9_CheckIns,All,0.8,Medium,Structured outreach at 3/6/9 absences
+Transportation_Support,Socioeconomically Disadvantaged,0.7,Medium,Bus passes; routing support
+EL_Tutoring,English Learners,0.5,Medium,After-school targeted supports
+SPED_Case_Management,Students with Disabilities,0.6,High,Case manager cadence + family outreach
+Health_Mental_Referrals,All,0.4,Medium,Clinic/telehealth blocks; referrals

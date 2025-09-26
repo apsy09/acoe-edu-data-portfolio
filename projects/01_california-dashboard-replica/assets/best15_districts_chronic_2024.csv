@@ -1,0 +1,16 @@
+geo_level,district_name,district_code,district_cds,county_name,county_code,year,subgroup,cohort,chronic_absent_count,chronic_absent_rate,non_chronic_rate,rate_all,gap_vs_all
+district,Little Shasta Elementary,70383.0,4770383.0,Siskiyou,47.0,2024,All Students,20.0,0.0,0.0,1.0,0.0,0.0
+district,Junction City Elementary,71738.0,5371738.0,Trinity,53.0,2024,All Students,77.0,0.0,0.0,1.0,0.0,0.0
+district,Santa Clara Elementary,72579.0,5672579.0,Ventura,56.0,2024,All Students,53.0,0.0,0.0,1.0,0.0,0.0
+district,Gratton Elementary,71084.0,5071084.0,Stanislaus,50.0,2024,All Students,139.0,1.0,0.0072,0.9928,0.0072,0.0
+district,Lake Elementary,62596.0,1162596.0,Glenn,11.0,2024,All Students,1075.0,11.0,0.0102,0.9898,0.0102,0.0
+district,Clay Joint Elementary,62109.0,1062109.0,Fresno,10.0,2024,All Students,242.0,3.0,0.0124,0.9876,0.0124,0.0
+district,Winship-Robbins,71456.0,5171456.0,Sutter,51.0,2024,All Students,2727.0,42.0,0.0154,0.9846,0.0154,0.0
+district,Kingsburg Elementary Charter,62240.0,1062240.0,Fresno,10.0,2024,All Students,2282.0,37.0,0.0162,0.9838,0.0162,0.0
+district,SBE - College Preparatory Middle,77164.0,3777164.0,San Diego,37.0,2024,All Students,404.0,8.0,0.0198,0.9802,0.0198,0.0
+district,Browns Elementary,71365.0,5171365.0,Sutter,51.0,2024,All Students,139.0,3.0,0.0216,0.9784,0.0216,0.0
+district,Columbine Elementary,71852.0,5471852.0,Tulare,54.0,2024,All Students,177.0,4.0,0.0226,0.9774,0.0226,0.0
+district,Moraga Elementary,61747.0,761747.0,Contra Costa,7.0,2024,All Students,1801.0,55.0,0.0305,0.9695,0.0305,0.0
+district,Marcum-Illinois Union Elementary,71407.0,5171407.0,Sutter,51.0,2024,All Students,2767.0,92.0,0.0332,0.9668,0.0332,0.0
+district,North Cow Creek Elementary,70078.0,4570078.0,Shasta,45.0,2024,All Students,270.0,9.0,0.0333,0.9667,0.0333,0.0
+district,Maricopa Unified,63628.0,1563628.0,Kern,15.0,2024,All Students,15172.0,530.0,0.0349,0.9651,0.0349,0.0

@@ -1,0 +1,16 @@
+geo_level,district_name,district_code,district_cds,county_name,county_code,year,subgroup,cohort,chronic_absent_count,chronic_absent_rate,non_chronic_rate,rate_all,gap_vs_all
+district,Inyo County Office of Education,10140.0,1410140.0,Inyo,14.0,2024,All Students,2180.0,1703.0,0.7812,0.2188,0.7812,0.0
+district,Blake Elementary,63354.0,1563354.0,Kern,15.0,2024,All Students,21.0,16.0,0.7619,0.2381,0.7619,0.0
+district,Trinity County Office of Education,10538.0,5310538.0,Trinity,53.0,2024,All Students,160.0,120.0,0.75,0.25,0.75,0.0
+district,San Benito County Office of Education,10355.0,3510355.0,San Benito,35.0,2024,All Students,101.0,75.0,0.7426,0.2574,0.7426,0.0
+district,Hot Springs Elementary,71951.0,5471951.0,Tulare,54.0,2024,All Students,19.0,14.0,0.7368,0.2632,0.7368,0.0
+district,Klamath-Trinity Joint Unified,62901.0,1262901.0,Humboldt,12.0,2024,All Students,1015.0,691.0,0.6808,0.3192,0.6808,0.0
+district,Twin Ridges Elementary,66415.0,2966415.0,Nevada,29.0,2024,All Students,118.0,80.0,0.678,0.322,0.678,0.0
+district,Lake County Office of Education,10173.0,1710173.0,Lake,17.0,2024,All Students,55.0,36.0,0.6545,0.3455,0.6545,0.0
+district,Peninsula Union,62984.0,1262984.0,Humboldt,12.0,2024,All Students,73.0,47.0,0.6438,0.3562,0.6438,0.0
+district,San Francisco County Office of Education,10389.0,3810389.0,San Francisco,38.0,2024,All Students,321.0,197.0,0.6137,0.3863,0.6137,0.0
+district,Point Arena Joint Union High,65599.0,2365599.0,Mendocino,23.0,2024,All Students,149.0,88.0,0.5906,0.4094,0.5906,0.0
+district,Mojave Unified,63677.0,1563677.0,Kern,15.0,2024,All Students,3238.0,1852.0,0.572,0.428,0.572,0.0
+district,SBE - Los Angeles College Prep Academy,77289.0,1977289.0,Los Angeles,19.0,2024,All Students,49.0,28.0,0.5714,0.4286,0.5714,0.0
+district,Junction Elementary,70367.0,4770367.0,Siskiyou,47.0,2024,All Students,28.0,16.0,0.5714,0.4286,0.5714,0.0
+district,Junction Elementary,70367.0,4770367.0,Siskiyou,47.0,2024,All Students,28.0,16.0,0.5714,0.4286,0.1508,0.4206

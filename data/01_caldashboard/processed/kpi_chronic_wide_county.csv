@@ -1,0 +1,1439 @@
+geo_level,district_name,district_code,district_cds,county_name,county_code,year,subgroup,cohort,chronic_absent_count,chronic_absent_rate,non_chronic_rate,rate_all,gap_vs_all
+county,,,,Alameda,01,2024,All Students,220644.0,43937.0,0.1991,0.8009,0.1991,0.0
+county,,,,Alameda,01,2024,American Indian/Alaska Native,60.0,18.0,0.3,0.7,0.1991,0.1009
+county,,,,Alameda,01,2024,Asian,61957.0,5126.0,0.0827,0.9173,0.1991,-0.1164
+county,,,,Alameda,01,2024,Black/African American,18126.0,6793.0,0.3748,0.6252,0.1991,0.1757
+county,,,,Alameda,01,2024,English Learners,47887.0,12859.0,0.2685,0.7315,0.1991,0.0694
+county,,,,Alameda,01,2024,Female,106747.0,21459.0,0.201,0.799,0.1991,0.0019
+county,,,,Alameda,01,2024,Filipino,8147.0,983.0,0.1207,0.8793,0.1991,-0.0784
+county,,,,Alameda,01,2024,Foster,115.0,47.0,0.4087,0.5913,0.1991,0.2096
+county,,,,Alameda,01,2024,GR13,47967.0,8792.0,0.1833,0.8167,0.1991,-0.0158
+county,,,,Alameda,01,2024,GR46,49074.0,7500.0,0.1528,0.8472,0.1991,-0.0463
+county,,,,Alameda,01,2024,GR78,32760.0,5652.0,0.1725,0.8275,0.1991,-0.0266
+county,,,,Alameda,01,2024,GR912,70419.0,16410.0,0.233,0.767,0.1991,0.0339
+county,,,,Alameda,01,2024,GRTK8,150203.0,27519.0,0.1832,0.8168,0.1991,-0.0159
+county,,,,Alameda,01,2024,GRTKKN,20324.0,5560.0,0.2736,0.7264,0.1991,0.0745
+county,,,,Alameda,01,2024,Hispanic/Latino,78013.0,22047.0,0.2826,0.7174,0.1991,0.0835
+county,,,,Alameda,01,2024,Homeless,4694.0,2304.0,0.4908,0.5092,0.1991,0.2917
+county,,,,Alameda,01,2024,Male,113520.0,22363.0,0.197,0.803,0.1991,-0.0021
+county,,,,Alameda,01,2024,Migrant,432.0,66.0,0.1528,0.8472,0.1991,-0.0463
+county,,,,Alameda,01,2024,Native Hawaiian/Pacific Islander,1125.0,435.0,0.3867,0.6133,0.1991,0.1876
+county,,,,Alameda,01,2024,Non-binary,83.0,15.0,0.1807,0.8193,0.1991,-0.0184
+county,,,,Alameda,01,2024,RD,2444.0,561.0,0.2295,0.7705,0.1991,0.0304
+county,,,,Alameda,01,2024,Socioeconomically Disadvantaged,112313.0,33238.0,0.2959,0.7041,0.1991,0.0968
+county,,,,Alameda,01,2024,Students with Disabilities,30187.0,9424.0,0.3122,0.6878,0.1991,0.1131
+county,,,,Alameda,01,2024,Two or More Races,14480.0,2259.0,0.156,0.844,0.1991,-0.0431
+county,,,,Alameda,01,2024,White,31823.0,4194.0,0.1318,0.8682,0.1991,-0.0673
+county,,,,Alpine,02,2024,All Students,63.0,26.0,0.4127,0.5873,0.4127,0.0
+county,,,,Alpine,02,2024,American Indian/Alaska Native,32.0,16.0,0.5,0.5,0.4127,0.0873
+county,,,,Alpine,02,2024,Asian,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,Black/African American,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,English Learners,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,Female,32.0,11.0,0.3438,0.6562,0.4127,-0.0689
+county,,,,Alpine,02,2024,Filipino,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,Foster,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,GR13,23.0,8.0,0.3478,0.6522,0.4127,-0.0649
+county,,,,Alpine,02,2024,GR46,17.0,6.0,0.3529,0.6471,0.4127,-0.0598
+county,,,,Alpine,02,2024,GR78,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,GR912,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,GRTK8,63.0,26.0,0.4127,0.5873,0.4127,0.0
+county,,,,Alpine,02,2024,GRTKKN,14.0,6.0,0.4286,0.5714,0.4127,0.0159
+county,,,,Alpine,02,2024,Hispanic/Latino,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,Homeless,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,Male,31.0,15.0,0.4839,0.5161,0.4127,0.0712
+county,,,,Alpine,02,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,RD,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,Socioeconomically Disadvantaged,44.0,20.0,0.4545,0.5455,0.4127,0.0418
+county,,,,Alpine,02,2024,Students with Disabilities,16.0,7.0,0.4375,0.5625,0.4127,0.0248
+county,,,,Alpine,02,2024,Two or More Races,0.0,0.0,,,0.4127,
+county,,,,Alpine,02,2024,White,20.0,6.0,0.3,0.7,0.4127,-0.1127
+county,,,,Amador,03,2024,All Students,4356.0,1105.0,0.2537,0.7463,0.2537,0.0
+county,,,,Amador,03,2024,American Indian/Alaska Native,59.0,24.0,0.4068,0.5932,0.2537,0.1531
+county,,,,Amador,03,2024,Asian,0.0,0.0,,,0.2537,
+county,,,,Amador,03,2024,Black/African American,0.0,0.0,,,0.2537,
+county,,,,Amador,03,2024,English Learners,103.0,27.0,0.2621,0.7379,0.2537,0.0084
+county,,,,Amador,03,2024,Female,2097.0,539.0,0.257,0.743,0.2537,0.0033
+county,,,,Amador,03,2024,Filipino,0.0,0.0,,,0.2537,
+county,,,,Amador,03,2024,Foster,0.0,0.0,,,0.2537,
+county,,,,Amador,03,2024,GR13,958.0,182.0,0.19,0.81,0.2537,-0.0637
+county,,,,Amador,03,2024,GR46,900.0,159.0,0.1767,0.8233,0.2537,-0.077
+county,,,,Amador,03,2024,GR78,612.0,139.0,0.2271,0.7729,0.2537,-0.0266
+county,,,,Amador,03,2024,GR912,1462.0,489.0,0.3345,0.6655,0.2537,0.0808
+county,,,,Amador,03,2024,GRTK8,2881.0,607.0,0.2107,0.7893,0.2537,-0.043
+county,,,,Amador,03,2024,GRTKKN,411.0,127.0,0.309,0.691,0.2537,0.0553
+county,,,,Amador,03,2024,Hispanic/Latino,1083.0,311.0,0.2872,0.7128,0.2537,0.0335
+county,,,,Amador,03,2024,Homeless,237.0,101.0,0.4262,0.5738,0.2537,0.1725
+county,,,,Amador,03,2024,Male,2227.0,549.0,0.2465,0.7535,0.2537,-0.0072
+county,,,,Amador,03,2024,Migrant,56.0,13.0,0.2321,0.7679,0.2537,-0.0216
+county,,,,Amador,03,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2537,
+county,,,,Amador,03,2024,Non-binary,0.0,0.0,,,0.2537,
+county,,,,Amador,03,2024,RD,0.0,0.0,,,0.2537,
+county,,,,Amador,03,2024,Socioeconomically Disadvantaged,2005.0,657.0,0.3277,0.6723,0.2537,0.074
+county,,,,Amador,03,2024,Students with Disabilities,897.0,301.0,0.3356,0.6644,0.2537,0.0819
+county,,,,Amador,03,2024,Two or More Races,302.0,68.0,0.2252,0.7748,0.2537,-0.0285
+county,,,,Amador,03,2024,White,2722.0,640.0,0.2351,0.7649,0.2537,-0.0186
+county,,,,Butte,04,2024,All Students,31799.0,6809.0,0.2141,0.7859,0.2141,0.0
+county,,,,Butte,04,2024,American Indian/Alaska Native,299.0,113.0,0.3779,0.6221,0.2141,0.1638
+county,,,,Butte,04,2024,Asian,1873.0,143.0,0.0763,0.9237,0.2141,-0.1378
+county,,,,Butte,04,2024,Black/African American,484.0,199.0,0.4112,0.5888,0.2141,0.1971
+county,,,,Butte,04,2024,English Learners,2194.0,369.0,0.1682,0.8318,0.2141,-0.0459
+county,,,,Butte,04,2024,Female,15249.0,3156.0,0.207,0.793,0.2141,-0.0071
+county,,,,Butte,04,2024,Filipino,20.0,0.0,0.0,1.0,0.2141,-0.2141
+county,,,,Butte,04,2024,Foster,81.0,38.0,0.4691,0.5309,0.2141,0.255
+county,,,,Butte,04,2024,GR13,6935.0,1209.0,0.1743,0.8257,0.2141,-0.0398
+county,,,,Butte,04,2024,GR46,6995.0,1236.0,0.1767,0.8233,0.2141,-0.0374
+county,,,,Butte,04,2024,GR78,4824.0,1181.0,0.2448,0.7552,0.2141,0.0307
+county,,,,Butte,04,2024,GR912,9918.0,2407.0,0.2427,0.7573,0.2141,0.0286
+county,,,,Butte,04,2024,GRTK8,21847.0,4376.0,0.2003,0.7997,0.2141,-0.0138
+county,,,,Butte,04,2024,GRTKKN,2992.0,701.0,0.2343,0.7657,0.2141,0.0202
+county,,,,Butte,04,2024,Hispanic/Latino,8800.0,2005.0,0.2278,0.7722,0.2141,0.0137
+county,,,,Butte,04,2024,Homeless,1613.0,744.0,0.4613,0.5387,0.2141,0.2472
+county,,,,Butte,04,2024,Male,16384.0,3561.0,0.2173,0.7827,0.2141,0.0032
+county,,,,Butte,04,2024,Migrant,60.0,4.0,0.0667,0.9333,0.2141,-0.1474
+county,,,,Butte,04,2024,Native Hawaiian/Pacific Islander,11.0,1.0,0.0909,0.9091,0.2141,-0.1232
+county,,,,Butte,04,2024,Non-binary,41.0,17.0,0.4146,0.5854,0.2141,0.2005
+county,,,,Butte,04,2024,RD,323.0,41.0,0.1269,0.8731,0.2141,-0.0872
+county,,,,Butte,04,2024,Socioeconomically Disadvantaged,20817.0,5707.0,0.2742,0.7258,0.2141,0.0601
+county,,,,Butte,04,2024,Students with Disabilities,5474.0,1674.0,0.3058,0.6942,0.2141,0.0917
+county,,,,Butte,04,2024,Two or More Races,2435.0,660.0,0.271,0.729,0.2141,0.0569
+county,,,,Butte,04,2024,White,16534.0,3311.0,0.2003,0.7997,0.2141,-0.0138
+county,,,,Calaveras,05,2024,All Students,5710.0,1511.0,0.2646,0.7354,0.2646,0.0
+county,,,,Calaveras,05,2024,American Indian/Alaska Native,28.0,13.0,0.4643,0.5357,0.2646,0.1997
+county,,,,Calaveras,05,2024,Asian,0.0,0.0,,,0.2646,
+county,,,,Calaveras,05,2024,Black/African American,0.0,0.0,,,0.2646,
+county,,,,Calaveras,05,2024,English Learners,211.0,47.0,0.2227,0.7773,0.2646,-0.0419
+county,,,,Calaveras,05,2024,Female,2725.0,703.0,0.258,0.742,0.2646,-0.0066
+county,,,,Calaveras,05,2024,Filipino,0.0,0.0,,,0.2646,
+county,,,,Calaveras,05,2024,Foster,43.0,11.0,0.2558,0.7442,0.2646,-0.0088
+county,,,,Calaveras,05,2024,GR13,1248.0,334.0,0.2676,0.7324,0.2646,0.003
+county,,,,Calaveras,05,2024,GR46,1277.0,322.0,0.2522,0.7478,0.2646,-0.0124
+county,,,,Calaveras,05,2024,GR78,821.0,234.0,0.285,0.715,0.2646,0.0204
+county,,,,Calaveras,05,2024,GR912,1812.0,441.0,0.2434,0.7566,0.2646,-0.0212
+county,,,,Calaveras,05,2024,GRTK8,3893.0,1065.0,0.2736,0.7264,0.2646,0.009
+county,,,,Calaveras,05,2024,GRTKKN,540.0,173.0,0.3204,0.6796,0.2646,0.0558
+county,,,,Calaveras,05,2024,Hispanic/Latino,1373.0,406.0,0.2957,0.7043,0.2646,0.0311
+county,,,,Calaveras,05,2024,Homeless,290.0,129.0,0.4448,0.5552,0.2646,0.1802
+county,,,,Calaveras,05,2024,Male,2952.0,790.0,0.2676,0.7324,0.2646,0.003
+county,,,,Calaveras,05,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2646,
+county,,,,Calaveras,05,2024,Non-binary,0.0,0.0,,,0.2646,
+county,,,,Calaveras,05,2024,RD,0.0,0.0,,,0.2646,
+county,,,,Calaveras,05,2024,Socioeconomically Disadvantaged,3223.0,1047.0,0.3249,0.6751,0.2646,0.0603
+county,,,,Calaveras,05,2024,Students with Disabilities,1119.0,372.0,0.3324,0.6676,0.2646,0.0678
+county,,,,Calaveras,05,2024,Two or More Races,343.0,84.0,0.2449,0.7551,0.2646,-0.0197
+county,,,,Calaveras,05,2024,White,3754.0,941.0,0.2507,0.7493,0.2646,-0.0139
+county,,,,Colusa,06,2024,All Students,4950.0,895.0,0.1808,0.8192,0.1808,0.0
+county,,,,Colusa,06,2024,American Indian/Alaska Native,44.0,12.0,0.2727,0.7273,0.1808,0.0919
+county,,,,Colusa,06,2024,Asian,0.0,0.0,,,0.1808,
+county,,,,Colusa,06,2024,Black/African American,0.0,0.0,,,0.1808,
+county,,,,Colusa,06,2024,English Learners,1745.0,290.0,0.1662,0.8338,0.1808,-0.0146
+county,,,,Colusa,06,2024,Female,2370.0,411.0,0.1734,0.8266,0.1808,-0.0074
+county,,,,Colusa,06,2024,Filipino,0.0,0.0,,,0.1808,
+county,,,,Colusa,06,2024,Foster,0.0,0.0,,,0.1808,
+county,,,,Colusa,06,2024,GR13,1017.0,143.0,0.1406,0.8594,0.1808,-0.0402
+county,,,,Colusa,06,2024,GR46,1033.0,136.0,0.1317,0.8683,0.1808,-0.0491
+county,,,,Colusa,06,2024,GR78,727.0,122.0,0.1678,0.8322,0.1808,-0.013
+county,,,,Colusa,06,2024,GR912,1711.0,373.0,0.218,0.782,0.1808,0.0372
+county,,,,Colusa,06,2024,GRTK8,3236.0,520.0,0.1607,0.8393,0.1808,-0.0201
+county,,,,Colusa,06,2024,GRTKKN,440.0,109.0,0.2477,0.7523,0.1808,0.0669
+county,,,,Colusa,06,2024,Hispanic/Latino,3991.0,722.0,0.1809,0.8191,0.1808,0.0001
+county,,,,Colusa,06,2024,Homeless,429.0,103.0,0.2401,0.7599,0.1808,0.0593
+county,,,,Colusa,06,2024,Male,2548.0,466.0,0.1829,0.8171,0.1808,0.0021
+county,,,,Colusa,06,2024,Migrant,230.0,40.0,0.1739,0.8261,0.1808,-0.0069
+county,,,,Colusa,06,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1808,
+county,,,,Colusa,06,2024,Non-binary,0.0,0.0,,,0.1808,
+county,,,,Colusa,06,2024,RD,0.0,0.0,,,0.1808,
+county,,,,Colusa,06,2024,Socioeconomically Disadvantaged,4070.0,778.0,0.1912,0.8088,0.1808,0.0104
+county,,,,Colusa,06,2024,Students with Disabilities,739.0,173.0,0.2341,0.7659,0.1808,0.0533
+county,,,,Colusa,06,2024,Two or More Races,22.0,1.0,0.0455,0.9545,0.1808,-0.1353
+county,,,,Colusa,06,2024,White,705.0,100.0,0.1418,0.8582,0.1808,-0.039
+county,,,,Contra Costa,07,2024,All Students,176778.0,36427.0,0.2061,0.7939,0.2061,0.0
+county,,,,Contra Costa,07,2024,American Indian/Alaska Native,39.0,6.0,0.1538,0.8462,0.2061,-0.0523
+county,,,,Contra Costa,07,2024,Asian,25404.0,2444.0,0.0962,0.9038,0.2061,-0.1099
+county,,,,Contra Costa,07,2024,Black/African American,14426.0,5297.0,0.3672,0.6328,0.2061,0.1611
+county,,,,Contra Costa,07,2024,English Learners,31594.0,8939.0,0.2829,0.7171,0.2061,0.0768
+county,,,,Contra Costa,07,2024,Female,85908.0,17654.0,0.2055,0.7945,0.2061,-0.0006
+county,,,,Contra Costa,07,2024,Filipino,6816.0,746.0,0.1094,0.8906,0.2061,-0.0967
+county,,,,Contra Costa,07,2024,Foster,218.0,122.0,0.5596,0.4404,0.2061,0.3535
+county,,,,Contra Costa,07,2024,GR13,37134.0,7072.0,0.1904,0.8096,0.2061,-0.0157
+county,,,,Contra Costa,07,2024,GR46,39046.0,6475.0,0.1658,0.8342,0.2061,-0.0403
+county,,,,Contra Costa,07,2024,GR78,26614.0,4883.0,0.1835,0.8165,0.2061,-0.0226
+county,,,,Contra Costa,07,2024,GR912,58041.0,13589.0,0.2341,0.7659,0.2061,0.028
+county,,,,Contra Costa,07,2024,GRTK8,118719.0,22831.0,0.1923,0.8077,0.2061,-0.0138
+county,,,,Contra Costa,07,2024,GRTKKN,15831.0,4377.0,0.2765,0.7235,0.2061,0.0704
+county,,,,Contra Costa,07,2024,Hispanic/Latino,68670.0,18603.0,0.2709,0.7291,0.2061,0.0648
+county,,,,Contra Costa,07,2024,Homeless,2647.0,1305.0,0.493,0.507,0.2061,0.2869
+county,,,,Contra Costa,07,2024,Male,90635.0,18681.0,0.2061,0.7939,0.2061,0.0
+county,,,,Contra Costa,07,2024,Migrant,0.0,0.0,,,0.2061,
+county,,,,Contra Costa,07,2024,Native Hawaiian/Pacific Islander,430.0,213.0,0.4953,0.5047,0.2061,0.2892
+county,,,,Contra Costa,07,2024,Non-binary,25.0,13.0,0.52,0.48,0.2061,0.3139
+county,,,,Contra Costa,07,2024,RD,2658.0,416.0,0.1565,0.8435,0.2061,-0.0496
+county,,,,Contra Costa,07,2024,Socioeconomically Disadvantaged,78580.0,24760.0,0.3151,0.6849,0.2061,0.109
+county,,,,Contra Costa,07,2024,Students with Disabilities,25911.0,7777.0,0.3001,0.6999,0.2061,0.094
+county,,,,Contra Costa,07,2024,Two or More Races,12993.0,2193.0,0.1688,0.8312,0.2061,-0.0373
+county,,,,Contra Costa,07,2024,White,42634.0,5677.0,0.1332,0.8668,0.2061,-0.0729
+county,,,,Del Norte,08,2024,All Students,4379.0,1215.0,0.2775,0.7225,0.2775,0.0
+county,,,,Del Norte,08,2024,American Indian/Alaska Native,625.0,250.0,0.4,0.6,0.2775,0.1225
+county,,,,Del Norte,08,2024,Asian,101.0,18.0,0.1782,0.8218,0.2775,-0.0993
+county,,,,Del Norte,08,2024,Black/African American,0.0,0.0,,,0.2775,
+county,,,,Del Norte,08,2024,English Learners,223.0,57.0,0.2556,0.7444,0.2775,-0.0219
+county,,,,Del Norte,08,2024,Female,2117.0,552.0,0.2607,0.7393,0.2775,-0.0168
+county,,,,Del Norte,08,2024,Filipino,0.0,0.0,,,0.2775,
+county,,,,Del Norte,08,2024,Foster,69.0,36.0,0.5217,0.4783,0.2775,0.2442
+county,,,,Del Norte,08,2024,GR13,925.0,221.0,0.2389,0.7611,0.2775,-0.0386
+county,,,,Del Norte,08,2024,GR46,1019.0,235.0,0.2306,0.7694,0.2775,-0.0469
+county,,,,Del Norte,08,2024,GR78,676.0,163.0,0.2411,0.7589,0.2775,-0.0364
+county,,,,Del Norte,08,2024,GR912,1398.0,476.0,0.3405,0.6595,0.2775,0.063
+county,,,,Del Norte,08,2024,GRTK8,2980.0,738.0,0.2477,0.7523,0.2775,-0.0298
+county,,,,Del Norte,08,2024,GRTKKN,345.0,117.0,0.3391,0.6609,0.2775,0.0616
+county,,,,Del Norte,08,2024,Hispanic/Latino,1037.0,285.0,0.2748,0.7252,0.2775,-0.0027
+county,,,,Del Norte,08,2024,Homeless,321.0,170.0,0.5296,0.4704,0.2775,0.2521
+county,,,,Del Norte,08,2024,Male,2253.0,658.0,0.2921,0.7079,0.2775,0.0146
+county,,,,Del Norte,08,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2775,
+county,,,,Del Norte,08,2024,Non-binary,0.0,0.0,,,0.2775,
+county,,,,Del Norte,08,2024,RD,0.0,0.0,,,0.2775,
+county,,,,Del Norte,08,2024,Socioeconomically Disadvantaged,3174.0,1037.0,0.3267,0.6733,0.2775,0.0492
+county,,,,Del Norte,08,2024,Students with Disabilities,799.0,278.0,0.3479,0.6521,0.2775,0.0704
+county,,,,Del Norte,08,2024,Two or More Races,388.0,111.0,0.2861,0.7139,0.2775,0.0086
+county,,,,Del Norte,08,2024,White,2125.0,512.0,0.2409,0.7591,0.2775,-0.0366
+county,,,,El Dorado,09,2024,All Students,33134.0,4671.0,0.141,0.859,0.141,0.0
+county,,,,El Dorado,09,2024,American Indian/Alaska Native,89.0,21.0,0.236,0.764,0.141,0.095
+county,,,,El Dorado,09,2024,Asian,1325.0,79.0,0.0596,0.9404,0.141,-0.0814
+county,,,,El Dorado,09,2024,Black/African American,166.0,7.0,0.0422,0.9578,0.141,-0.0988
+county,,,,El Dorado,09,2024,English Learners,1985.0,430.0,0.2166,0.7834,0.141,0.0756
+county,,,,El Dorado,09,2024,Female,16080.0,2180.0,0.1356,0.8644,0.141,-0.0054
+county,,,,El Dorado,09,2024,Filipino,298.0,28.0,0.094,0.906,0.141,-0.047
+county,,,,El Dorado,09,2024,Foster,61.0,5.0,0.082,0.918,0.141,-0.059
+county,,,,El Dorado,09,2024,GR13,7117.0,748.0,0.1051,0.8949,0.141,-0.0359
+county,,,,El Dorado,09,2024,GR46,7387.0,853.0,0.1155,0.8845,0.141,-0.0255
+county,,,,El Dorado,09,2024,GR78,5090.0,745.0,0.1464,0.8536,0.141,0.0054
+county,,,,El Dorado,09,2024,GR912,10276.0,1809.0,0.176,0.824,0.141,0.035
+county,,,,El Dorado,09,2024,GRTK8,22856.0,2861.0,0.1252,0.8748,0.141,-0.0158
+county,,,,El Dorado,09,2024,GRTKKN,3189.0,495.0,0.1552,0.8448,0.141,0.0142
+county,,,,El Dorado,09,2024,Hispanic/Latino,7129.0,1411.0,0.1979,0.8021,0.141,0.0569
+county,,,,El Dorado,09,2024,Homeless,691.0,227.0,0.3285,0.6715,0.141,0.1875
+county,,,,El Dorado,09,2024,Male,16942.0,2454.0,0.1448,0.8552,0.141,0.0038
+county,,,,El Dorado,09,2024,Migrant,0.0,0.0,,,0.141,
+county,,,,El Dorado,09,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.141,
+county,,,,El Dorado,09,2024,Non-binary,0.0,0.0,,,0.141,
+county,,,,El Dorado,09,2024,RD,331.0,11.0,0.0332,0.9668,0.141,-0.1078
+county,,,,El Dorado,09,2024,Socioeconomically Disadvantaged,11905.0,2567.0,0.2156,0.7844,0.141,0.0746
+county,,,,El Dorado,09,2024,Students with Disabilities,5113.0,1086.0,0.2124,0.7876,0.141,0.0714
+county,,,,El Dorado,09,2024,Two or More Races,1815.0,263.0,0.1449,0.8551,0.141,0.0039
+county,,,,El Dorado,09,2024,White,21233.0,2695.0,0.1269,0.8731,0.141,-0.0141
+county,,,,Fresno,10,2024,All Students,221348.0,50869.0,0.2298,0.7702,0.2298,0.0
+county,,,,Fresno,10,2024,American Indian/Alaska Native,527.0,186.0,0.3529,0.6471,0.2298,0.1231
+county,,,,Fresno,10,2024,Asian,20999.0,2824.0,0.1345,0.8655,0.2298,-0.0953
+county,,,,Fresno,10,2024,Black/African American,10229.0,3782.0,0.3697,0.6303,0.2298,0.1399
+county,,,,Fresno,10,2024,English Learners,42290.0,8900.0,0.2105,0.7895,0.2298,-0.0193
+county,,,,Fresno,10,2024,Female,107714.0,24695.0,0.2293,0.7707,0.2298,-0.0005
+county,,,,Fresno,10,2024,Filipino,1100.0,74.0,0.0673,0.9327,0.2298,-0.1625
+county,,,,Fresno,10,2024,Foster,1239.0,511.0,0.4124,0.5876,0.2298,0.1826
+county,,,,Fresno,10,2024,GR13,46792.0,9382.0,0.2005,0.7995,0.2298,-0.0293
+county,,,,Fresno,10,2024,GR46,49235.0,8955.0,0.1819,0.8181,0.2298,-0.0479
+county,,,,Fresno,10,2024,GR78,33973.0,7659.0,0.2254,0.7746,0.2298,-0.0044
+county,,,,Fresno,10,2024,GR912,71148.0,18788.0,0.2641,0.7359,0.2298,0.0343
+county,,,,Fresno,10,2024,GRTK8,150143.0,32049.0,0.2135,0.7865,0.2298,-0.0163
+county,,,,Fresno,10,2024,GRTKKN,20020.0,6009.0,0.3001,0.6999,0.2298,0.0703
+county,,,,Fresno,10,2024,Hispanic/Latino,148029.0,36200.0,0.2445,0.7555,0.2298,0.0147
+county,,,,Fresno,10,2024,Homeless,2755.0,1094.0,0.3971,0.6029,0.2298,0.1673
+county,,,,Fresno,10,2024,Male,113336.0,26053.0,0.2299,0.7701,0.2298,0.0001
+county,,,,Fresno,10,2024,Migrant,4103.0,636.0,0.155,0.845,0.2298,-0.0748
+county,,,,Fresno,10,2024,Native Hawaiian/Pacific Islander,61.0,18.0,0.2951,0.7049,0.2298,0.0653
+county,,,,Fresno,10,2024,Non-binary,54.0,27.0,0.5,0.5,0.2298,0.2702
+county,,,,Fresno,10,2024,RD,730.0,123.0,0.1685,0.8315,0.2298,-0.0613
+county,,,,Fresno,10,2024,Socioeconomically Disadvantaged,171911.0,44963.0,0.2615,0.7385,0.2298,0.0317
+county,,,,Fresno,10,2024,Students with Disabilities,28239.0,8966.0,0.3175,0.6825,0.2298,0.0877
+county,,,,Fresno,10,2024,Two or More Races,5603.0,1324.0,0.2363,0.7637,0.2298,0.0065
+county,,,,Fresno,10,2024,White,30136.0,5262.0,0.1746,0.8254,0.2298,-0.0552
+county,,,,Glenn,11,2024,All Students,6829.0,1062.0,0.1555,0.8445,0.1555,0.0
+county,,,,Glenn,11,2024,American Indian/Alaska Native,53.0,24.0,0.4528,0.5472,0.1555,0.2973
+county,,,,Glenn,11,2024,Asian,54.0,3.0,0.0556,0.9444,0.1555,-0.0999
+county,,,,Glenn,11,2024,Black/African American,0.0,0.0,,,0.1555,
+county,,,,Glenn,11,2024,English Learners,1280.0,172.0,0.1344,0.8656,0.1555,-0.0211
+county,,,,Glenn,11,2024,Female,3298.0,511.0,0.1549,0.8451,0.1555,-0.0006
+county,,,,Glenn,11,2024,Filipino,0.0,0.0,,,0.1555,
+county,,,,Glenn,11,2024,Foster,11.0,4.0,0.3636,0.6364,0.1555,0.2081
+county,,,,Glenn,11,2024,GR13,1527.0,143.0,0.0936,0.9064,0.1555,-0.0619
+county,,,,Glenn,11,2024,GR46,1517.0,154.0,0.1015,0.8985,0.1555,-0.054
+county,,,,Glenn,11,2024,GR78,988.0,153.0,0.1549,0.8451,0.1555,-0.0006
+county,,,,Glenn,11,2024,GR912,2156.0,514.0,0.2384,0.7616,0.1555,0.0829
+county,,,,Glenn,11,2024,GRTK8,4673.0,548.0,0.1173,0.8827,0.1555,-0.0382
+county,,,,Glenn,11,2024,GRTKKN,616.0,86.0,0.1396,0.8604,0.1555,-0.0159
+county,,,,Glenn,11,2024,Hispanic/Latino,3701.0,597.0,0.1613,0.8387,0.1555,0.0058
+county,,,,Glenn,11,2024,Homeless,170.0,35.0,0.2059,0.7941,0.1555,0.0504
+county,,,,Glenn,11,2024,Male,3474.0,520.0,0.1497,0.8503,0.1555,-0.0058
+county,,,,Glenn,11,2024,Migrant,19.0,2.0,0.1053,0.8947,0.1555,-0.0502
+county,,,,Glenn,11,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1555,
+county,,,,Glenn,11,2024,Non-binary,0.0,0.0,,,0.1555,
+county,,,,Glenn,11,2024,RD,106.0,10.0,0.0943,0.9057,0.1555,-0.0612
+county,,,,Glenn,11,2024,Socioeconomically Disadvantaged,5274.0,913.0,0.1731,0.8269,0.1555,0.0176
+county,,,,Glenn,11,2024,Students with Disabilities,996.0,215.0,0.2159,0.7841,0.1555,0.0604
+county,,,,Glenn,11,2024,Two or More Races,64.0,2.0,0.0312,0.9688,0.1555,-0.1243
+county,,,,Glenn,11,2024,White,2492.0,348.0,0.1396,0.8604,0.1555,-0.0159
+county,,,,Humboldt,12,2024,All Students,18306.0,5097.0,0.2784,0.7216,0.2784,0.0
+county,,,,Humboldt,12,2024,American Indian/Alaska Native,1432.0,839.0,0.5859,0.4141,0.2784,0.3075
+county,,,,Humboldt,12,2024,Asian,419.0,66.0,0.1575,0.8425,0.2784,-0.1209
+county,,,,Humboldt,12,2024,Black/African American,66.0,23.0,0.3485,0.6515,0.2784,0.0701
+county,,,,Humboldt,12,2024,English Learners,1215.0,258.0,0.2123,0.7877,0.2784,-0.0661
+county,,,,Humboldt,12,2024,Female,8824.0,2448.0,0.2774,0.7226,0.2784,-0.001
+county,,,,Humboldt,12,2024,Filipino,0.0,0.0,,,0.2784,
+county,,,,Humboldt,12,2024,Foster,192.0,129.0,0.6719,0.3281,0.2784,0.3935
+county,,,,Humboldt,12,2024,GR13,3832.0,895.0,0.2336,0.7664,0.2784,-0.0448
+county,,,,Humboldt,12,2024,GR46,4014.0,873.0,0.2175,0.7825,0.2784,-0.0609
+county,,,,Humboldt,12,2024,GR78,2712.0,763.0,0.2813,0.7187,0.2784,0.0029
+county,,,,Humboldt,12,2024,GR912,5771.0,1973.0,0.3419,0.6581,0.2784,0.0635
+county,,,,Humboldt,12,2024,GRTK8,12528.0,3124.0,0.2494,0.7506,0.2784,-0.029
+county,,,,Humboldt,12,2024,GRTKKN,1793.0,524.0,0.2922,0.7078,0.2784,0.0138
+county,,,,Humboldt,12,2024,Hispanic/Latino,3917.0,1072.0,0.2737,0.7263,0.2784,-0.0047
+county,,,,Humboldt,12,2024,Homeless,1294.0,642.0,0.4961,0.5039,0.2784,0.2177
+county,,,,Humboldt,12,2024,Male,9346.0,2578.0,0.2758,0.7242,0.2784,-0.0026
+county,,,,Humboldt,12,2024,Migrant,0.0,0.0,,,0.2784,
+county,,,,Humboldt,12,2024,Native Hawaiian/Pacific Islander,32.0,4.0,0.125,0.875,0.2784,-0.1534
+county,,,,Humboldt,12,2024,Non-binary,0.0,0.0,,,0.2784,
+county,,,,Humboldt,12,2024,RD,42.0,15.0,0.3571,0.6429,0.2784,0.0787
+county,,,,Humboldt,12,2024,Socioeconomically Disadvantaged,12213.0,4058.0,0.3323,0.6677,0.2784,0.0539
+county,,,,Humboldt,12,2024,Students with Disabilities,3512.0,1260.0,0.3588,0.6412,0.2784,0.0804
+county,,,,Humboldt,12,2024,Two or More Races,1822.0,498.0,0.2733,0.7267,0.2784,-0.0051
+county,,,,Humboldt,12,2024,White,9703.0,2298.0,0.2368,0.7632,0.2784,-0.0416
+county,,,,Imperial,13,2024,All Students,37717.0,9075.0,0.2406,0.7594,0.2406,0.0
+county,,,,Imperial,13,2024,American Indian/Alaska Native,281.0,90.0,0.3203,0.6797,0.2406,0.0797
+county,,,,Imperial,13,2024,Asian,61.0,2.0,0.0328,0.9672,0.2406,-0.2078
+county,,,,Imperial,13,2024,Black/African American,58.0,17.0,0.2931,0.7069,0.2406,0.0525
+county,,,,Imperial,13,2024,English Learners,15515.0,4581.0,0.2953,0.7047,0.2406,0.0547
+county,,,,Imperial,13,2024,Female,18354.0,4404.0,0.2399,0.7601,0.2406,-0.0007
+county,,,,Imperial,13,2024,Filipino,13.0,1.0,0.0769,0.9231,0.2406,-0.1637
+county,,,,Imperial,13,2024,Foster,40.0,15.0,0.375,0.625,0.2406,0.1344
+county,,,,Imperial,13,2024,GR13,7691.0,1956.0,0.2543,0.7457,0.2406,0.0137
+county,,,,Imperial,13,2024,GR46,8174.0,1868.0,0.2285,0.7715,0.2406,-0.0121
+county,,,,Imperial,13,2024,GR78,5835.0,1154.0,0.1978,0.8022,0.2406,-0.0428
+county,,,,Imperial,13,2024,GR912,12910.0,3058.0,0.2369,0.7631,0.2406,-0.0037
+county,,,,Imperial,13,2024,GRTK8,24790.0,6002.0,0.2421,0.7579,0.2406,0.0015
+county,,,,Imperial,13,2024,GRTKKN,3059.0,1019.0,0.3331,0.6669,0.2406,0.0925
+county,,,,Imperial,13,2024,Hispanic/Latino,35443.0,8662.0,0.2444,0.7556,0.2406,0.0038
+county,,,,Imperial,13,2024,Homeless,1712.0,638.0,0.3727,0.6273,0.2406,0.1321
+county,,,,Imperial,13,2024,Male,19297.0,4653.0,0.2411,0.7589,0.2406,0.0005
+county,,,,Imperial,13,2024,Migrant,2865.0,788.0,0.275,0.725,0.2406,0.0344
+county,,,,Imperial,13,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2406,
+county,,,,Imperial,13,2024,Non-binary,0.0,0.0,,,0.2406,
+county,,,,Imperial,13,2024,RD,12.0,3.0,0.25,0.75,0.2406,0.0094
+county,,,,Imperial,13,2024,Socioeconomically Disadvantaged,29683.0,8068.0,0.2718,0.7282,0.2406,0.0312
+county,,,,Imperial,13,2024,Students with Disabilities,5726.0,1896.0,0.3311,0.6689,0.2406,0.0905
+county,,,,Imperial,13,2024,Two or More Races,22.0,5.0,0.2273,0.7727,0.2406,-0.0133
+county,,,,Imperial,13,2024,White,1163.0,163.0,0.1402,0.8598,0.2406,-0.1004
+county,,,,Inyo,14,2024,All Students,4914.0,2517.0,0.5122,0.4878,0.5122,0.0
+county,,,,Inyo,14,2024,American Indian/Alaska Native,377.0,167.0,0.443,0.557,0.5122,-0.0692
+county,,,,Inyo,14,2024,Asian,0.0,0.0,,,0.5122,
+county,,,,Inyo,14,2024,Black/African American,396.0,312.0,0.7879,0.2121,0.5122,0.2757
+county,,,,Inyo,14,2024,English Learners,661.0,364.0,0.5507,0.4493,0.5122,0.0385
+county,,,,Inyo,14,2024,Female,2279.0,1130.0,0.4958,0.5042,0.5122,-0.0164
+county,,,,Inyo,14,2024,Filipino,0.0,0.0,,,0.5122,
+county,,,,Inyo,14,2024,Foster,44.0,27.0,0.6136,0.3864,0.5122,0.1014
+county,,,,Inyo,14,2024,GR13,601.0,169.0,0.2812,0.7188,0.5122,-0.231
+county,,,,Inyo,14,2024,GR46,624.0,169.0,0.2708,0.7292,0.5122,-0.2414
+county,,,,Inyo,14,2024,GR78,360.0,99.0,0.275,0.725,0.5122,-0.2372
+county,,,,Inyo,14,2024,GR912,3042.0,1956.0,0.643,0.357,0.5122,0.1308
+county,,,,Inyo,14,2024,GRTK8,1856.0,551.0,0.2969,0.7031,0.5122,-0.2153
+county,,,,Inyo,14,2024,GRTKKN,232.0,97.0,0.4181,0.5819,0.5122,-0.0941
+county,,,,Inyo,14,2024,Hispanic/Latino,2794.0,1599.0,0.5723,0.4277,0.5122,0.0601
+county,,,,Inyo,14,2024,Homeless,239.0,156.0,0.6527,0.3473,0.5122,0.1405
+county,,,,Inyo,14,2024,Male,2579.0,1354.0,0.525,0.475,0.5122,0.0128
+county,,,,Inyo,14,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.5122,
+county,,,,Inyo,14,2024,Non-binary,0.0,0.0,,,0.5122,
+county,,,,Inyo,14,2024,RD,23.0,5.0,0.2174,0.7826,0.5122,-0.2948
+county,,,,Inyo,14,2024,Socioeconomically Disadvantaged,3622.0,2083.0,0.5751,0.4249,0.5122,0.0629
+county,,,,Inyo,14,2024,Students with Disabilities,636.0,332.0,0.522,0.478,0.5122,0.0098
+county,,,,Inyo,14,2024,Two or More Races,231.0,87.0,0.3766,0.6234,0.5122,-0.1356
+county,,,,Inyo,14,2024,White,875.0,218.0,0.2491,0.7509,0.5122,-0.2631
+county,,,,Kern,15,2024,All Students,212082.0,41786.0,0.197,0.803,0.197,0.0
+county,,,,Kern,15,2024,American Indian/Alaska Native,283.0,73.0,0.258,0.742,0.197,0.061
+county,,,,Kern,15,2024,Asian,4781.0,518.0,0.1083,0.8917,0.197,-0.0887
+county,,,,Kern,15,2024,Black/African American,10968.0,3546.0,0.3233,0.6767,0.197,0.1263
+county,,,,Kern,15,2024,English Learners,40760.0,7556.0,0.1854,0.8146,0.197,-0.0116
+county,,,,Kern,15,2024,Female,103849.0,20383.0,0.1963,0.8037,0.197,-0.0007
+county,,,,Kern,15,2024,Filipino,1849.0,81.0,0.0438,0.9562,0.197,-0.1532
+county,,,,Kern,15,2024,Foster,1303.0,411.0,0.3154,0.6846,0.197,0.1184
+county,,,,Kern,15,2024,GR13,45802.0,8534.0,0.1863,0.8137,0.197,-0.0107
+county,,,,Kern,15,2024,GR46,47987.0,8282.0,0.1726,0.8274,0.197,-0.0244
+county,,,,Kern,15,2024,GR78,32340.0,6934.0,0.2144,0.7856,0.197,0.0174
+county,,,,Kern,15,2024,GR912,65820.0,12821.0,0.1948,0.8052,0.197,-0.0022
+county,,,,Kern,15,2024,GRTK8,146249.0,28955.0,0.198,0.802,0.197,0.001
+county,,,,Kern,15,2024,GRTKKN,19988.0,5147.0,0.2575,0.7425,0.197,0.0605
+county,,,,Kern,15,2024,Hispanic/Latino,145577.0,28571.0,0.1963,0.8037,0.197,-0.0007
+county,,,,Kern,15,2024,Homeless,6024.0,2271.0,0.377,0.623,0.197,0.18
+county,,,,Kern,15,2024,Male,108094.0,21360.0,0.1976,0.8024,0.197,0.0006
+county,,,,Kern,15,2024,Migrant,5748.0,857.0,0.1491,0.8509,0.197,-0.0479
+county,,,,Kern,15,2024,Native Hawaiian/Pacific Islander,118.0,11.0,0.0932,0.9068,0.197,-0.1038
+county,,,,Kern,15,2024,Non-binary,11.0,0.0,0.0,1.0,0.197,-0.197
+county,,,,Kern,15,2024,RD,1980.0,284.0,0.1434,0.8566,0.197,-0.0536
+county,,,,Kern,15,2024,Socioeconomically Disadvantaged,167318.0,37079.0,0.2216,0.7784,0.197,0.0246
+county,,,,Kern,15,2024,Students with Disabilities,28082.0,7828.0,0.2788,0.7212,0.197,0.0818
+county,,,,Kern,15,2024,Two or More Races,3819.0,729.0,0.1909,0.8091,0.197,-0.0061
+county,,,,Kern,15,2024,White,39387.0,7169.0,0.182,0.818,0.197,-0.015
+county,,,,Kings,16,2024,All Students,31746.0,5900.0,0.1859,0.8141,0.1859,0.0
+county,,,,Kings,16,2024,American Indian/Alaska Native,134.0,33.0,0.2463,0.7537,0.1859,0.0604
+county,,,,Kings,16,2024,Asian,147.0,14.0,0.0952,0.9048,0.1859,-0.0907
+county,,,,Kings,16,2024,Black/African American,942.0,165.0,0.1752,0.8248,0.1859,-0.0107
+county,,,,Kings,16,2024,English Learners,6135.0,1169.0,0.1905,0.8095,0.1859,0.0046
+county,,,,Kings,16,2024,Female,15513.0,2824.0,0.182,0.818,0.1859,-0.0039
+county,,,,Kings,16,2024,Filipino,339.0,14.0,0.0413,0.9587,0.1859,-0.1446
+county,,,,Kings,16,2024,Foster,196.0,74.0,0.3776,0.6224,0.1859,0.1917
+county,,,,Kings,16,2024,GR13,6494.0,840.0,0.1294,0.8706,0.1859,-0.0565
+county,,,,Kings,16,2024,GR46,6739.0,807.0,0.1198,0.8802,0.1859,-0.0661
+county,,,,Kings,16,2024,GR78,4848.0,790.0,0.163,0.837,0.1859,-0.0229
+county,,,,Kings,16,2024,GR912,10737.0,2842.0,0.2647,0.7353,0.1859,0.0788
+county,,,,Kings,16,2024,GRTK8,20995.0,3050.0,0.1453,0.8547,0.1859,-0.0406
+county,,,,Kings,16,2024,GRTKKN,2893.0,602.0,0.2081,0.7919,0.1859,0.0222
+county,,,,Kings,16,2024,Hispanic/Latino,23452.0,4692.0,0.2001,0.7999,0.1859,0.0142
+county,,,,Kings,16,2024,Homeless,866.0,301.0,0.3476,0.6524,0.1859,0.1617
+county,,,,Kings,16,2024,Male,16156.0,3040.0,0.1882,0.8118,0.1859,0.0023
+county,,,,Kings,16,2024,Migrant,693.0,106.0,0.153,0.847,0.1859,-0.0329
+county,,,,Kings,16,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1859,
+county,,,,Kings,16,2024,Non-binary,12.0,1.0,0.0833,0.9167,0.1859,-0.1026
+county,,,,Kings,16,2024,RD,11.0,2.0,0.1818,0.8182,0.1859,-0.0041
+county,,,,Kings,16,2024,Socioeconomically Disadvantaged,24543.0,5192.0,0.2115,0.7885,0.1859,0.0256
+county,,,,Kings,16,2024,Students with Disabilities,3902.0,1057.0,0.2709,0.7291,0.1859,0.085
+county,,,,Kings,16,2024,Two or More Races,1047.0,127.0,0.1213,0.8787,0.1859,-0.0646
+county,,,,Kings,16,2024,White,4889.0,675.0,0.1381,0.8619,0.1859,-0.0478
+county,,,,Lake,17,2024,All Students,11033.0,3808.0,0.3451,0.6549,0.3451,0.0
+county,,,,Lake,17,2024,American Indian/Alaska Native,378.0,186.0,0.4921,0.5079,0.3451,0.147
+county,,,,Lake,17,2024,Asian,0.0,0.0,,,0.3451,
+county,,,,Lake,17,2024,Black/African American,62.0,34.0,0.5484,0.4516,0.3451,0.2033
+county,,,,Lake,17,2024,English Learners,1951.0,647.0,0.3316,0.6684,0.3451,-0.0135
+county,,,,Lake,17,2024,Female,5321.0,1824.0,0.3428,0.6572,0.3451,-0.0023
+county,,,,Lake,17,2024,Filipino,0.0,0.0,,,0.3451,
+county,,,,Lake,17,2024,Foster,0.0,0.0,,,0.3451,
+county,,,,Lake,17,2024,GR13,2452.0,803.0,0.3275,0.6725,0.3451,-0.0176
+county,,,,Lake,17,2024,GR46,2487.0,738.0,0.2967,0.7033,0.3451,-0.0484
+county,,,,Lake,17,2024,GR78,1669.0,556.0,0.3331,0.6669,0.3451,-0.012
+county,,,,Lake,17,2024,GR912,3238.0,1213.0,0.3746,0.6254,0.3451,0.0295
+county,,,,Lake,17,2024,GRTK8,7758.0,2572.0,0.3315,0.6685,0.3451,-0.0136
+county,,,,Lake,17,2024,GRTKKN,1073.0,441.0,0.411,0.589,0.3451,0.0659
+county,,,,Lake,17,2024,Hispanic/Latino,4825.0,1662.0,0.3445,0.6555,0.3451,-0.0006
+county,,,,Lake,17,2024,Homeless,761.0,354.0,0.4652,0.5348,0.3451,0.1201
+county,,,,Lake,17,2024,Male,5630.0,1922.0,0.3414,0.6586,0.3451,-0.0037
+county,,,,Lake,17,2024,Migrant,326.0,79.0,0.2423,0.7577,0.3451,-0.1028
+county,,,,Lake,17,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.3451,
+county,,,,Lake,17,2024,Non-binary,0.0,0.0,,,0.3451,
+county,,,,Lake,17,2024,RD,102.0,38.0,0.3725,0.6275,0.3451,0.0274
+county,,,,Lake,17,2024,Socioeconomically Disadvantaged,8556.0,3233.0,0.3779,0.6221,0.3451,0.0328
+county,,,,Lake,17,2024,Students with Disabilities,1612.0,654.0,0.4057,0.5943,0.3451,0.0606
+county,,,,Lake,17,2024,Two or More Races,669.0,274.0,0.4096,0.5904,0.3451,0.0645
+county,,,,Lake,17,2024,White,4574.0,1437.0,0.3142,0.6858,0.3451,-0.0309
+county,,,,Lassen,18,2024,All Students,4033.0,913.0,0.2264,0.7736,0.2264,0.0
+county,,,,Lassen,18,2024,American Indian/Alaska Native,69.0,23.0,0.3333,0.6667,0.2264,0.1069
+county,,,,Lassen,18,2024,Asian,0.0,0.0,,,0.2264,
+county,,,,Lassen,18,2024,Black/African American,0.0,0.0,,,0.2264,
+county,,,,Lassen,18,2024,English Learners,99.0,21.0,0.2121,0.7879,0.2264,-0.0143
+county,,,,Lassen,18,2024,Female,1964.0,440.0,0.224,0.776,0.2264,-0.0024
+county,,,,Lassen,18,2024,Filipino,0.0,0.0,,,0.2264,
+county,,,,Lassen,18,2024,Foster,21.0,8.0,0.381,0.619,0.2264,0.1546
+county,,,,Lassen,18,2024,GR13,905.0,172.0,0.1901,0.8099,0.2264,-0.0363
+county,,,,Lassen,18,2024,GR46,891.0,181.0,0.2031,0.7969,0.2264,-0.0233
+county,,,,Lassen,18,2024,GR78,618.0,131.0,0.212,0.788,0.2264,-0.0144
+county,,,,Lassen,18,2024,GR912,1233.0,322.0,0.2612,0.7388,0.2264,0.0348
+county,,,,Lassen,18,2024,GRTK8,2800.0,591.0,0.2111,0.7889,0.2264,-0.0153
+county,,,,Lassen,18,2024,GRTKKN,386.0,107.0,0.2772,0.7228,0.2264,0.0508
+county,,,,Lassen,18,2024,Hispanic/Latino,825.0,206.0,0.2497,0.7503,0.2264,0.0233
+county,,,,Lassen,18,2024,Homeless,121.0,57.0,0.4711,0.5289,0.2264,0.2447
+county,,,,Lassen,18,2024,Male,2027.0,452.0,0.223,0.777,0.2264,-0.0034
+county,,,,Lassen,18,2024,Migrant,0.0,0.0,,,0.2264,
+county,,,,Lassen,18,2024,Native Hawaiian/Pacific Islander,70.0,18.0,0.2571,0.7429,0.2264,0.0307
+county,,,,Lassen,18,2024,Non-binary,11.0,5.0,0.4545,0.5455,0.2264,0.2281
+county,,,,Lassen,18,2024,RD,20.0,1.0,0.05,0.95,0.2264,-0.1764
+county,,,,Lassen,18,2024,Socioeconomically Disadvantaged,2406.0,690.0,0.2868,0.7132,0.2264,0.0604
+county,,,,Lassen,18,2024,Students with Disabilities,531.0,144.0,0.2712,0.7288,0.2264,0.0448
+county,,,,Lassen,18,2024,Two or More Races,280.0,63.0,0.225,0.775,0.2264,-0.0014
+county,,,,Lassen,18,2024,White,2559.0,550.0,0.2149,0.7851,0.2264,-0.0115
+county,,,,Los Angeles,19,2024,All Students,1368982.0,311378.0,0.2275,0.7725,0.2275,0.0
+county,,,,Los Angeles,19,2024,American Indian/Alaska Native,617.0,175.0,0.2836,0.7164,0.2275,0.0561
+county,,,,Los Angeles,19,2024,Asian,104606.0,6477.0,0.0619,0.9381,0.2275,-0.1656
+county,,,,Los Angeles,19,2024,Black/African American,94414.0,33059.0,0.3501,0.6499,0.2275,0.1226
+county,,,,Los Angeles,19,2024,English Learners,258279.0,63229.0,0.2448,0.7552,0.2275,0.0173
+county,,,,Los Angeles,19,2024,Female,663777.0,151404.0,0.2281,0.7719,0.2275,0.0006
+county,,,,Los Angeles,19,2024,Filipino,23412.0,2013.0,0.086,0.914,0.2275,-0.1415
+county,,,,Los Angeles,19,2024,Foster,6263.0,2383.0,0.3805,0.6195,0.2275,0.153
+county,,,,Los Angeles,19,2024,GR13,281578.0,54291.0,0.1928,0.8072,0.2275,-0.0347
+county,,,,Los Angeles,19,2024,GR46,297119.0,53260.0,0.1793,0.8207,0.2275,-0.0482
+county,,,,Los Angeles,19,2024,GR78,206000.0,43808.0,0.2127,0.7873,0.2275,-0.0148
+county,,,,Los Angeles,19,2024,GR912,458811.0,124153.0,0.2706,0.7294,0.2275,0.0431
+county,,,,Los Angeles,19,2024,GRTK8,909989.0,187147.0,0.2057,0.7943,0.2275,-0.0218
+county,,,,Los Angeles,19,2024,GRTKKN,124978.0,35637.0,0.2851,0.7149,0.2275,0.0576
+county,,,,Los Angeles,19,2024,Hispanic/Latino,893523.0,225895.0,0.2528,0.7472,0.2275,0.0253
+county,,,,Los Angeles,19,2024,Homeless,56651.0,20844.0,0.3679,0.6321,0.2275,0.1404
+county,,,,Los Angeles,19,2024,Male,704139.0,159539.0,0.2266,0.7734,0.2275,-0.0009
+county,,,,Los Angeles,19,2024,Migrant,3108.0,465.0,0.1496,0.8504,0.2275,-0.0779
+county,,,,Los Angeles,19,2024,Native Hawaiian/Pacific Islander,1314.0,477.0,0.363,0.637,0.2275,0.1355
+county,,,,Los Angeles,19,2024,Non-binary,292.0,124.0,0.4247,0.5753,0.2275,0.1972
+county,,,,Los Angeles,19,2024,RD,12617.0,2670.0,0.2116,0.7884,0.2275,-0.0159
+county,,,,Los Angeles,19,2024,Socioeconomically Disadvantaged,987603.0,263400.0,0.2667,0.7333,0.2275,0.0392
+county,,,,Los Angeles,19,2024,Students with Disabilities,209357.0,64537.0,0.3083,0.6917,0.2275,0.0808
+county,,,,Los Angeles,19,2024,Two or More Races,39554.0,5992.0,0.1515,0.8485,0.2275,-0.076
+county,,,,Los Angeles,19,2024,White,172064.0,27362.0,0.159,0.841,0.2275,-0.0685
+county,,,,Madera,20,2024,All Students,34251.0,7985.0,0.2331,0.7669,0.2331,0.0
+county,,,,Madera,20,2024,American Indian/Alaska Native,155.0,46.0,0.2968,0.7032,0.2331,0.0637
+county,,,,Madera,20,2024,Asian,373.0,35.0,0.0938,0.9062,0.2331,-0.1393
+county,,,,Madera,20,2024,Black/African American,285.0,106.0,0.3719,0.6281,0.2331,0.1388
+county,,,,Madera,20,2024,English Learners,8731.0,1842.0,0.211,0.789,0.2331,-0.0221
+county,,,,Madera,20,2024,Female,16630.0,3854.0,0.2317,0.7683,0.2331,-0.0014
+county,,,,Madera,20,2024,Filipino,0.0,0.0,,,0.2331,
+county,,,,Madera,20,2024,Foster,144.0,50.0,0.3472,0.6528,0.2331,0.1141
+county,,,,Madera,20,2024,GR13,7456.0,1452.0,0.1947,0.8053,0.2331,-0.0384
+county,,,,Madera,20,2024,GR46,7647.0,1380.0,0.1805,0.8195,0.2331,-0.0526
+county,,,,Madera,20,2024,GR78,5376.0,1245.0,0.2316,0.7684,0.2331,-0.0015
+county,,,,Madera,20,2024,GR912,10621.0,2987.0,0.2812,0.7188,0.2331,0.0481
+county,,,,Madera,20,2024,GRTK8,23626.0,4998.0,0.2115,0.7885,0.2331,-0.0216
+county,,,,Madera,20,2024,GRTKKN,3075.0,914.0,0.2972,0.7028,0.2331,0.0641
+county,,,,Madera,20,2024,Hispanic/Latino,26282.0,6177.0,0.235,0.765,0.2331,0.0019
+county,,,,Madera,20,2024,Homeless,1045.0,390.0,0.3732,0.6268,0.2331,0.1401
+county,,,,Madera,20,2024,Male,17529.0,4085.0,0.233,0.767,0.2331,-0.0001
+county,,,,Madera,20,2024,Migrant,770.0,132.0,0.1714,0.8286,0.2331,-0.0617
+county,,,,Madera,20,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2331,
+county,,,,Madera,20,2024,Non-binary,0.0,0.0,,,0.2331,
+county,,,,Madera,20,2024,RD,133.0,35.0,0.2632,0.7368,0.2331,0.0301
+county,,,,Madera,20,2024,Socioeconomically Disadvantaged,28409.0,7235.0,0.2547,0.7453,0.2331,0.0216
+county,,,,Madera,20,2024,Students with Disabilities,3788.0,1172.0,0.3094,0.6906,0.2331,0.0763
+county,,,,Madera,20,2024,Two or More Races,410.0,91.0,0.222,0.778,0.2331,-0.0111
+county,,,,Madera,20,2024,White,5576.0,1182.0,0.212,0.788,0.2331,-0.0211
+county,,,,Marin,21,2024,All Students,31139.0,4264.0,0.1369,0.8631,0.1369,0.0
+county,,,,Marin,21,2024,American Indian/Alaska Native,0.0,0.0,,,0.1369,
+county,,,,Marin,21,2024,Asian,1144.0,102.0,0.0892,0.9108,0.1369,-0.0477
+county,,,,Marin,21,2024,Black/African American,358.0,96.0,0.2682,0.7318,0.1369,0.1313
+county,,,,Marin,21,2024,English Learners,5923.0,947.0,0.1599,0.8401,0.1369,0.023
+county,,,,Marin,21,2024,Female,14958.0,2047.0,0.1368,0.8632,0.1369,-0.0001
+county,,,,Marin,21,2024,Filipino,40.0,7.0,0.175,0.825,0.1369,0.0381
+county,,,,Marin,21,2024,Foster,12.0,11.0,0.9167,0.0833,0.1369,0.7798
+county,,,,Marin,21,2024,GR13,6403.0,592.0,0.0925,0.9075,0.1369,-0.0444
+county,,,,Marin,21,2024,GR46,6620.0,605.0,0.0914,0.9086,0.1369,-0.0455
+county,,,,Marin,21,2024,GR78,4434.0,653.0,0.1473,0.8527,0.1369,0.0104
+county,,,,Marin,21,2024,GR912,10718.0,1997.0,0.1863,0.8137,0.1369,0.0494
+county,,,,Marin,21,2024,GRTK8,20410.0,2261.0,0.1108,0.8892,0.1369,-0.0261
+county,,,,Marin,21,2024,GRTKKN,2914.0,406.0,0.1393,0.8607,0.1369,0.0024
+county,,,,Marin,21,2024,Hispanic/Latino,11342.0,1867.0,0.1646,0.8354,0.1369,0.0277
+county,,,,Marin,21,2024,Homeless,1400.0,234.0,0.1671,0.8329,0.1369,0.0302
+county,,,,Marin,21,2024,Male,16085.0,2200.0,0.1368,0.8632,0.1369,-0.0001
+county,,,,Marin,21,2024,Migrant,0.0,0.0,,,0.1369,
+county,,,,Marin,21,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1369,
+county,,,,Marin,21,2024,Non-binary,25.0,6.0,0.24,0.76,0.1369,0.1031
+county,,,,Marin,21,2024,RD,41.0,12.0,0.2927,0.7073,0.1369,0.1558
+county,,,,Marin,21,2024,Socioeconomically Disadvantaged,11336.0,2165.0,0.191,0.809,0.1369,0.0541
+county,,,,Marin,21,2024,Students with Disabilities,4451.0,1039.0,0.2334,0.7666,0.1369,0.0965
+county,,,,Marin,21,2024,Two or More Races,2335.0,279.0,0.1195,0.8805,0.1369,-0.0174
+county,,,,Marin,21,2024,White,15145.0,1722.0,0.1137,0.8863,0.1369,-0.0232
+county,,,,Mariposa,22,2024,All Students,2029.0,724.0,0.3568,0.6432,0.3568,0.0
+county,,,,Mariposa,22,2024,American Indian/Alaska Native,49.0,18.0,0.3673,0.6327,0.3568,0.0105
+county,,,,Mariposa,22,2024,Asian,0.0,0.0,,,0.3568,
+county,,,,Mariposa,22,2024,Black/African American,0.0,0.0,,,0.3568,
+county,,,,Mariposa,22,2024,English Learners,80.0,21.0,0.2625,0.7375,0.3568,-0.0943
+county,,,,Mariposa,22,2024,Female,939.0,322.0,0.3429,0.6571,0.3568,-0.0139
+county,,,,Mariposa,22,2024,Filipino,0.0,0.0,,,0.3568,
+county,,,,Mariposa,22,2024,Foster,40.0,21.0,0.525,0.475,0.3568,0.1682
+county,,,,Mariposa,22,2024,GR13,443.0,139.0,0.3138,0.6862,0.3568,-0.043
+county,,,,Mariposa,22,2024,GR46,432.0,136.0,0.3148,0.6852,0.3568,-0.042
+county,,,,Mariposa,22,2024,GR78,307.0,101.0,0.329,0.671,0.3568,-0.0278
+county,,,,Mariposa,22,2024,GR912,600.0,248.0,0.4133,0.5867,0.3568,0.0565
+county,,,,Mariposa,22,2024,GRTK8,1429.0,476.0,0.3331,0.6669,0.3568,-0.0237
+county,,,,Mariposa,22,2024,GRTKKN,174.0,66.0,0.3793,0.6207,0.3568,0.0225
+county,,,,Mariposa,22,2024,Hispanic/Latino,498.0,176.0,0.3534,0.6466,0.3568,-0.0034
+county,,,,Mariposa,22,2024,Homeless,115.0,55.0,0.4783,0.5217,0.3568,0.1215
+county,,,,Mariposa,22,2024,Male,1058.0,385.0,0.3639,0.6361,0.3568,0.0071
+county,,,,Mariposa,22,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.3568,
+county,,,,Mariposa,22,2024,Non-binary,0.0,0.0,,,0.3568,
+county,,,,Mariposa,22,2024,RD,0.0,0.0,,,0.3568,
+county,,,,Mariposa,22,2024,Socioeconomically Disadvantaged,1437.0,596.0,0.4148,0.5852,0.3568,0.058
+county,,,,Mariposa,22,2024,Students with Disabilities,338.0,131.0,0.3876,0.6124,0.3568,0.0308
+county,,,,Mariposa,22,2024,Two or More Races,127.0,43.0,0.3386,0.6614,0.3568,-0.0182
+county,,,,Mariposa,22,2024,White,1217.0,423.0,0.3476,0.6524,0.3568,-0.0092
+county,,,,Mendocino,23,2024,All Students,13420.0,3855.0,0.2873,0.7127,0.2873,0.0
+county,,,,Mendocino,23,2024,American Indian/Alaska Native,703.0,315.0,0.4481,0.5519,0.2873,0.1608
+county,,,,Mendocino,23,2024,Asian,24.0,2.0,0.0833,0.9167,0.2873,-0.204
+county,,,,Mendocino,23,2024,Black/African American,0.0,0.0,,,0.2873,
+county,,,,Mendocino,23,2024,English Learners,2638.0,648.0,0.2456,0.7544,0.2873,-0.0417
+county,,,,Mendocino,23,2024,Female,6303.0,1783.0,0.2829,0.7171,0.2873,-0.0044
+county,,,,Mendocino,23,2024,Filipino,13.0,2.0,0.1538,0.8462,0.2873,-0.1335
+county,,,,Mendocino,23,2024,Foster,105.0,33.0,0.3143,0.6857,0.2873,0.027
+county,,,,Mendocino,23,2024,GR13,2832.0,738.0,0.2606,0.7394,0.2873,-0.0267
+county,,,,Mendocino,23,2024,GR46,2949.0,723.0,0.2452,0.7548,0.2873,-0.0421
+county,,,,Mendocino,23,2024,GR78,2008.0,581.0,0.2893,0.7107,0.2873,0.002
+county,,,,Mendocino,23,2024,GR912,4267.0,1357.0,0.318,0.682,0.2873,0.0307
+county,,,,Mendocino,23,2024,GRTK8,9126.0,2489.0,0.2727,0.7273,0.2873,-0.0146
+county,,,,Mendocino,23,2024,GRTKKN,1195.0,393.0,0.3289,0.6711,0.2873,0.0416
+county,,,,Mendocino,23,2024,Hispanic/Latino,6364.0,1657.0,0.2604,0.7396,0.2873,-0.0269
+county,,,,Mendocino,23,2024,Homeless,666.0,267.0,0.4009,0.5991,0.2873,0.1136
+county,,,,Mendocino,23,2024,Male,6979.0,1999.0,0.2864,0.7136,0.2873,-0.0009
+county,,,,Mendocino,23,2024,Migrant,748.0,149.0,0.1992,0.8008,0.2873,-0.0881
+county,,,,Mendocino,23,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2873,
+county,,,,Mendocino,23,2024,Non-binary,0.0,0.0,,,0.2873,
+county,,,,Mendocino,23,2024,RD,555.0,209.0,0.3766,0.6234,0.2873,0.0893
+county,,,,Mendocino,23,2024,Socioeconomically Disadvantaged,10344.0,3262.0,0.3154,0.6846,0.2873,0.0281
+county,,,,Mendocino,23,2024,Students with Disabilities,2095.0,766.0,0.3656,0.6344,0.2873,0.0783
+county,,,,Mendocino,23,2024,Two or More Races,479.0,153.0,0.3194,0.6806,0.2873,0.0321
+county,,,,Mendocino,23,2024,White,4652.0,1289.0,0.2771,0.7229,0.2873,-0.0102
+county,,,,Merced,24,2024,All Students,63423.0,13541.0,0.2135,0.7865,0.2135,0.0
+county,,,,Merced,24,2024,American Indian/Alaska Native,61.0,19.0,0.3115,0.6885,0.2135,0.098
+county,,,,Merced,24,2024,Asian,3061.0,312.0,0.1019,0.8981,0.2135,-0.1116
+county,,,,Merced,24,2024,Black/African American,1412.0,550.0,0.3895,0.6105,0.2135,0.176
+county,,,,Merced,24,2024,English Learners,15867.0,3081.0,0.1942,0.8058,0.2135,-0.0193
+county,,,,Merced,24,2024,Female,30749.0,6560.0,0.2133,0.7867,0.2135,-0.0002
+county,,,,Merced,24,2024,Filipino,82.0,8.0,0.0976,0.9024,0.2135,-0.1159
+county,,,,Merced,24,2024,Foster,333.0,97.0,0.2913,0.7087,0.2135,0.0778
+county,,,,Merced,24,2024,GR13,13500.0,2410.0,0.1785,0.8215,0.2135,-0.035
+county,,,,Merced,24,2024,GR46,14171.0,2267.0,0.16,0.84,0.2135,-0.0535
+county,,,,Merced,24,2024,GR78,9670.0,1877.0,0.1941,0.8059,0.2135,-0.0194
+county,,,,Merced,24,2024,GR912,20365.0,5390.0,0.2647,0.7353,0.2135,0.0512
+county,,,,Merced,24,2024,GRTK8,43045.0,8151.0,0.1894,0.8106,0.2135,-0.0241
+county,,,,Merced,24,2024,GRTKKN,5672.0,1585.0,0.2794,0.7206,0.2135,0.0659
+county,,,,Merced,24,2024,Hispanic/Latino,48858.0,10609.0,0.2171,0.7829,0.2135,0.0036
+county,,,,Merced,24,2024,Homeless,2110.0,751.0,0.3559,0.6441,0.2135,0.1424
+county,,,,Merced,24,2024,Male,32606.0,6951.0,0.2132,0.7868,0.2135,-0.0003
+county,,,,Merced,24,2024,Migrant,1202.0,239.0,0.1988,0.8012,0.2135,-0.0147
+county,,,,Merced,24,2024,Native Hawaiian/Pacific Islander,35.0,8.0,0.2286,0.7714,0.2135,0.0151
+county,,,,Merced,24,2024,Non-binary,12.0,5.0,0.4167,0.5833,0.2135,0.2032
+county,,,,Merced,24,2024,RD,204.0,42.0,0.2059,0.7941,0.2135,-0.0076
+county,,,,Merced,24,2024,Socioeconomically Disadvantaged,52031.0,12062.0,0.2318,0.7682,0.2135,0.0183
+county,,,,Merced,24,2024,Students with Disabilities,8672.0,2493.0,0.2875,0.7125,0.2135,0.074
+county,,,,Merced,24,2024,Two or More Races,786.0,174.0,0.2214,0.7786,0.2135,0.0079
+county,,,,Merced,24,2024,White,7562.0,1474.0,0.1949,0.8051,0.2135,-0.0186
+county,,,,Modoc,25,2024,All Students,1397.0,283.0,0.2026,0.7974,0.2026,0.0
+county,,,,Modoc,25,2024,American Indian/Alaska Native,52.0,23.0,0.4423,0.5577,0.2026,0.2397
+county,,,,Modoc,25,2024,Asian,0.0,0.0,,,0.2026,
+county,,,,Modoc,25,2024,Black/African American,0.0,0.0,,,0.2026,
+county,,,,Modoc,25,2024,English Learners,201.0,52.0,0.2587,0.7413,0.2026,0.0561
+county,,,,Modoc,25,2024,Female,694.0,138.0,0.1988,0.8012,0.2026,-0.0038
+county,,,,Modoc,25,2024,Filipino,0.0,0.0,,,0.2026,
+county,,,,Modoc,25,2024,Foster,17.0,4.0,0.2353,0.7647,0.2026,0.0327
+county,,,,Modoc,25,2024,GR13,320.0,53.0,0.1656,0.8344,0.2026,-0.037
+county,,,,Modoc,25,2024,GR46,320.0,47.0,0.1469,0.8531,0.2026,-0.0557
+county,,,,Modoc,25,2024,GR78,211.0,45.0,0.2133,0.7867,0.2026,0.0107
+county,,,,Modoc,25,2024,GR912,434.0,116.0,0.2673,0.7327,0.2026,0.0647
+county,,,,Modoc,25,2024,GRTK8,963.0,167.0,0.1734,0.8266,0.2026,-0.0292
+county,,,,Modoc,25,2024,GRTKKN,104.0,22.0,0.2115,0.7885,0.2026,0.0089
+county,,,,Modoc,25,2024,Hispanic/Latino,517.0,116.0,0.2244,0.7756,0.2026,0.0218
+county,,,,Modoc,25,2024,Homeless,46.0,15.0,0.3261,0.6739,0.2026,0.1235
+county,,,,Modoc,25,2024,Male,692.0,139.0,0.2009,0.7991,0.2026,-0.0017
+county,,,,Modoc,25,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2026,
+county,,,,Modoc,25,2024,Non-binary,0.0,0.0,,,0.2026,
+county,,,,Modoc,25,2024,RD,0.0,0.0,,,0.2026,
+county,,,,Modoc,25,2024,Socioeconomically Disadvantaged,999.0,232.0,0.2322,0.7678,0.2026,0.0296
+county,,,,Modoc,25,2024,Students with Disabilities,173.0,49.0,0.2832,0.7168,0.2026,0.0806
+county,,,,Modoc,25,2024,Two or More Races,34.0,4.0,0.1176,0.8824,0.2026,-0.085
+county,,,,Modoc,25,2024,White,685.0,110.0,0.1606,0.8394,0.2026,-0.042
+county,,,,Mono,26,2024,All Students,1971.0,611.0,0.31,0.69,0.31,0.0
+county,,,,Mono,26,2024,American Indian/Alaska Native,0.0,0.0,,,0.31,
+county,,,,Mono,26,2024,Asian,18.0,5.0,0.2778,0.7222,0.31,-0.0322
+county,,,,Mono,26,2024,Black/African American,23.0,13.0,0.5652,0.4348,0.31,0.2552
+county,,,,Mono,26,2024,English Learners,549.0,197.0,0.3588,0.6412,0.31,0.0488
+county,,,,Mono,26,2024,Female,921.0,279.0,0.3029,0.6971,0.31,-0.0071
+county,,,,Mono,26,2024,Filipino,0.0,0.0,,,0.31,
+county,,,,Mono,26,2024,Foster,0.0,0.0,,,0.31,
+county,,,,Mono,26,2024,GR13,367.0,88.0,0.2398,0.7602,0.31,-0.0702
+county,,,,Mono,26,2024,GR46,372.0,77.0,0.207,0.793,0.31,-0.103
+county,,,,Mono,26,2024,GR78,209.0,60.0,0.2871,0.7129,0.31,-0.0229
+county,,,,Mono,26,2024,GR912,838.0,318.0,0.3795,0.6205,0.31,0.0695
+county,,,,Mono,26,2024,GRTK8,1132.0,292.0,0.258,0.742,0.31,-0.052
+county,,,,Mono,26,2024,GRTKKN,159.0,62.0,0.3899,0.6101,0.31,0.0799
+county,,,,Mono,26,2024,Hispanic/Latino,1133.0,394.0,0.3477,0.6523,0.31,0.0377
+county,,,,Mono,26,2024,Homeless,28.0,10.0,0.3571,0.6429,0.31,0.0471
+county,,,,Mono,26,2024,Male,1025.0,323.0,0.3151,0.6849,0.31,0.0051
+county,,,,Mono,26,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.31,
+county,,,,Mono,26,2024,Non-binary,0.0,0.0,,,0.31,
+county,,,,Mono,26,2024,RD,0.0,0.0,,,0.31,
+county,,,,Mono,26,2024,Socioeconomically Disadvantaged,1259.0,453.0,0.3598,0.6402,0.31,0.0498
+county,,,,Mono,26,2024,Students with Disabilities,182.0,57.0,0.3132,0.6868,0.31,0.0032
+county,,,,Mono,26,2024,Two or More Races,32.0,11.0,0.3438,0.6562,0.31,0.0338
+county,,,,Mono,26,2024,White,670.0,156.0,0.2328,0.7672,0.31,-0.0772
+county,,,,Monterey,27,2024,All Students,76466.0,13315.0,0.1741,0.8259,0.1741,0.0
+county,,,,Monterey,27,2024,American Indian/Alaska Native,0.0,0.0,,,0.1741,
+county,,,,Monterey,27,2024,Asian,890.0,68.0,0.0764,0.9236,0.1741,-0.0977
+county,,,,Monterey,27,2024,Black/African American,560.0,94.0,0.1679,0.8321,0.1741,-0.0062
+county,,,,Monterey,27,2024,English Learners,27402.0,4633.0,0.1691,0.8309,0.1741,-0.005
+county,,,,Monterey,27,2024,Female,37210.0,6406.0,0.1722,0.8278,0.1741,-0.0019
+county,,,,Monterey,27,2024,Filipino,757.0,56.0,0.074,0.926,0.1741,-0.1001
+county,,,,Monterey,27,2024,Foster,0.0,0.0,,,0.1741,
+county,,,,Monterey,27,2024,GR13,16266.0,2625.0,0.1614,0.8386,0.1741,-0.0127
+county,,,,Monterey,27,2024,GR46,16945.0,2306.0,0.1361,0.8639,0.1741,-0.038
+county,,,,Monterey,27,2024,GR78,11490.0,1830.0,0.1593,0.8407,0.1741,-0.0148
+county,,,,Monterey,27,2024,GR912,24736.0,4738.0,0.1915,0.8085,0.1741,0.0174
+county,,,,Monterey,27,2024,GRTK8,51704.0,8568.0,0.1657,0.8343,0.1741,-0.0084
+county,,,,Monterey,27,2024,GRTKKN,6914.0,1785.0,0.2582,0.7418,0.1741,0.0841
+county,,,,Monterey,27,2024,Hispanic/Latino,63420.0,11391.0,0.1796,0.8204,0.1741,0.0055
+county,,,,Monterey,27,2024,Homeless,12626.0,2447.0,0.1938,0.8062,0.1741,0.0197
+county,,,,Monterey,27,2024,Male,39140.0,6862.0,0.1753,0.8247,0.1741,0.0012
+county,,,,Monterey,27,2024,Migrant,4267.0,619.0,0.1451,0.8549,0.1741,-0.029
+county,,,,Monterey,27,2024,Native Hawaiian/Pacific Islander,114.0,15.0,0.1316,0.8684,0.1741,-0.0425
+county,,,,Monterey,27,2024,Non-binary,12.0,5.0,0.4167,0.5833,0.1741,0.2426
+county,,,,Monterey,27,2024,RD,163.0,27.0,0.1656,0.8344,0.1741,-0.0085
+county,,,,Monterey,27,2024,Socioeconomically Disadvantaged,60457.0,11270.0,0.1864,0.8136,0.1741,0.0123
+county,,,,Monterey,27,2024,Students with Disabilities,11117.0,2860.0,0.2573,0.7427,0.1741,0.0832
+county,,,,Monterey,27,2024,Two or More Races,1268.0,179.0,0.1412,0.8588,0.1741,-0.0329
+county,,,,Monterey,27,2024,White,7472.0,1065.0,0.1425,0.8575,0.1741,-0.0316
+county,,,,Napa,28,2024,All Students,19211.0,3898.0,0.2029,0.7971,0.2029,0.0
+county,,,,Napa,28,2024,American Indian/Alaska Native,0.0,0.0,,,0.2029,
+county,,,,Napa,28,2024,Asian,388.0,54.0,0.1392,0.8608,0.2029,-0.0637
+county,,,,Napa,28,2024,Black/African American,344.0,87.0,0.2529,0.7471,0.2029,0.05
+county,,,,Napa,28,2024,English Learners,4802.0,1114.0,0.232,0.768,0.2029,0.0291
+county,,,,Napa,28,2024,Female,9266.0,1862.0,0.2009,0.7991,0.2029,-0.002
+county,,,,Napa,28,2024,Filipino,988.0,118.0,0.1194,0.8806,0.2029,-0.0835
+county,,,,Napa,28,2024,Foster,0.0,0.0,,,0.2029,
+county,,,,Napa,28,2024,GR13,3799.0,693.0,0.1824,0.8176,0.2029,-0.0205
+county,,,,Napa,28,2024,GR46,4104.0,661.0,0.1611,0.8389,0.2029,-0.0418
+county,,,,Napa,28,2024,GR78,2845.0,606.0,0.213,0.787,0.2029,0.0101
+county,,,,Napa,28,2024,GR912,6826.0,1506.0,0.2206,0.7794,0.2029,0.0177
+county,,,,Napa,28,2024,GRTK8,12385.0,2392.0,0.1931,0.8069,0.2029,-0.0098
+county,,,,Napa,28,2024,GRTKKN,1625.0,430.0,0.2646,0.7354,0.2029,0.0617
+county,,,,Napa,28,2024,Hispanic/Latino,11465.0,2600.0,0.2268,0.7732,0.2029,0.0239
+county,,,,Napa,28,2024,Homeless,598.0,209.0,0.3495,0.6505,0.2029,0.1466
+county,,,,Napa,28,2024,Male,9911.0,2024.0,0.2042,0.7958,0.2029,0.0013
+county,,,,Napa,28,2024,Migrant,1080.0,238.0,0.2204,0.7796,0.2029,0.0175
+county,,,,Napa,28,2024,Native Hawaiian/Pacific Islander,12.0,1.0,0.0833,0.9167,0.2029,-0.1196
+county,,,,Napa,28,2024,Non-binary,0.0,0.0,,,0.2029,
+county,,,,Napa,28,2024,RD,0.0,0.0,,,0.2029,
+county,,,,Napa,28,2024,Socioeconomically Disadvantaged,12607.0,3017.0,0.2393,0.7607,0.2029,0.0364
+county,,,,Napa,28,2024,Students with Disabilities,2861.0,825.0,0.2884,0.7116,0.2029,0.0855
+county,,,,Napa,28,2024,Two or More Races,794.0,156.0,0.1965,0.8035,0.2029,-0.0064
+county,,,,Napa,28,2024,White,4807.0,777.0,0.1616,0.8384,0.2029,-0.0413
+county,,,,Nevada,29,2024,All Students,12511.0,3956.0,0.3162,0.6838,0.3162,0.0
+county,,,,Nevada,29,2024,American Indian/Alaska Native,26.0,13.0,0.5,0.5,0.3162,0.1838
+county,,,,Nevada,29,2024,Asian,12.0,3.0,0.25,0.75,0.3162,-0.0662
+county,,,,Nevada,29,2024,Black/African American,97.0,83.0,0.8557,0.1443,0.3162,0.5395
+county,,,,Nevada,29,2024,English Learners,345.0,237.0,0.687,0.313,0.3162,0.3708
+county,,,,Nevada,29,2024,Female,5958.0,1894.0,0.3179,0.6821,0.3162,0.0017
+county,,,,Nevada,29,2024,Filipino,0.0,0.0,,,0.3162,
+county,,,,Nevada,29,2024,Foster,13.0,11.0,0.8462,0.1538,0.3162,0.53
+county,,,,Nevada,29,2024,GR13,2212.0,402.0,0.1817,0.8183,0.3162,-0.1345
+county,,,,Nevada,29,2024,GR46,2400.0,450.0,0.1875,0.8125,0.3162,-0.1287
+county,,,,Nevada,29,2024,GR78,1611.0,313.0,0.1943,0.8057,0.3162,-0.1219
+county,,,,Nevada,29,2024,GR912,5242.0,2542.0,0.4849,0.5151,0.3162,0.1687
+county,,,,Nevada,29,2024,GRTK8,7254.0,1406.0,0.1938,0.8062,0.3162,-0.1224
+county,,,,Nevada,29,2024,GRTKKN,991.0,232.0,0.2341,0.7659,0.3162,-0.0821
+county,,,,Nevada,29,2024,Hispanic/Latino,3255.0,1745.0,0.5361,0.4639,0.3162,0.2199
+county,,,,Nevada,29,2024,Homeless,339.0,247.0,0.7286,0.2714,0.3162,0.4124
+county,,,,Nevada,29,2024,Male,6500.0,2040.0,0.3138,0.6862,0.3162,-0.0024
+county,,,,Nevada,29,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.3162,
+county,,,,Nevada,29,2024,Non-binary,0.0,0.0,,,0.3162,
+county,,,,Nevada,29,2024,RD,160.0,39.0,0.2438,0.7562,0.3162,-0.0724
+county,,,,Nevada,29,2024,Socioeconomically Disadvantaged,6868.0,3005.0,0.4375,0.5625,0.3162,0.1213
+county,,,,Nevada,29,2024,Students with Disabilities,1913.0,705.0,0.3685,0.6315,0.3162,0.0523
+county,,,,Nevada,29,2024,Two or More Races,721.0,202.0,0.2802,0.7198,0.3162,-0.036
+county,,,,Nevada,29,2024,White,7833.0,1754.0,0.2239,0.7761,0.3162,-0.0923
+county,,,,Orange,30,2024,All Students,456171.0,71726.0,0.1572,0.8428,0.1572,0.0
+county,,,,Orange,30,2024,American Indian/Alaska Native,123.0,37.0,0.3008,0.6992,0.1572,0.1436
+county,,,,Orange,30,2024,Asian,81523.0,4633.0,0.0568,0.9432,0.1572,-0.1004
+county,,,,Orange,30,2024,Black/African American,4536.0,1067.0,0.2352,0.7648,0.1572,0.078
+county,,,,Orange,30,2024,English Learners,96128.0,19986.0,0.2079,0.7921,0.1572,0.0507
+county,,,,Orange,30,2024,Female,219951.0,34623.0,0.1574,0.8426,0.1572,0.0002
+county,,,,Orange,30,2024,Filipino,7612.0,556.0,0.073,0.927,0.1572,-0.0842
+county,,,,Orange,30,2024,Foster,933.0,427.0,0.4577,0.5423,0.1572,0.3005
+county,,,,Orange,30,2024,GR13,90817.0,10952.0,0.1206,0.8794,0.1572,-0.0366
+county,,,,Orange,30,2024,GR46,97734.0,10618.0,0.1086,0.8914,0.1572,-0.0486
+county,,,,Orange,30,2024,GR78,69211.0,10494.0,0.1516,0.8484,0.1572,-0.0056
+county,,,,Orange,30,2024,GR912,157826.0,31137.0,0.1973,0.8027,0.1572,0.0401
+county,,,,Orange,30,2024,GRTK8,298299.0,40570.0,0.136,0.864,0.1572,-0.0212
+county,,,,Orange,30,2024,GRTKKN,40395.0,8471.0,0.2097,0.7903,0.1572,0.0525
+county,,,,Orange,30,2024,Hispanic/Latino,227583.0,47503.0,0.2087,0.7913,0.1572,0.0515
+county,,,,Orange,30,2024,Homeless,29230.0,8307.0,0.2842,0.7158,0.1572,0.127
+county,,,,Orange,30,2024,Male,235694.0,36908.0,0.1566,0.8434,0.1572,-0.0006
+county,,,,Orange,30,2024,Migrant,237.0,48.0,0.2025,0.7975,0.1572,0.0453
+county,,,,Orange,30,2024,Missing Gender,0.0,0.0,,,0.1572,
+county,,,,Orange,30,2024,Native Hawaiian/Pacific Islander,175.0,46.0,0.2629,0.7371,0.1572,0.1057
+county,,,,Orange,30,2024,Non-binary,129.0,53.0,0.4109,0.5891,0.1572,0.2537
+county,,,,Orange,30,2024,RD,4259.0,696.0,0.1634,0.8366,0.1572,0.0062
+county,,,,Orange,30,2024,Socioeconomically Disadvantaged,262913.0,54562.0,0.2075,0.7925,0.1572,0.0503
+county,,,,Orange,30,2024,Students with Disabilities,66501.0,16702.0,0.2512,0.7488,0.1572,0.094
+county,,,,Orange,30,2024,Two or More Races,22109.0,2336.0,0.1057,0.8943,0.1572,-0.0515
+county,,,,Orange,30,2024,White,99464.0,12965.0,0.1303,0.8697,0.1572,-0.0269
+county,,,,Placer,31,2024,All Students,78899.0,9869.0,0.1251,0.8749,0.1251,0.0
+county,,,,Placer,31,2024,American Indian/Alaska Native,120.0,21.0,0.175,0.825,0.1251,0.0499
+county,,,,Placer,31,2024,Asian,6473.0,488.0,0.0754,0.9246,0.1251,-0.0497
+county,,,,Placer,31,2024,Black/African American,1507.0,261.0,0.1732,0.8268,0.1251,0.0481
+county,,,,Placer,31,2024,English Learners,7271.0,1115.0,0.1533,0.8467,0.1251,0.0282
+county,,,,Placer,31,2024,Female,38023.0,4736.0,0.1246,0.8754,0.1251,-0.0005
+county,,,,Placer,31,2024,Filipino,2239.0,114.0,0.0509,0.9491,0.1251,-0.0742
+county,,,,Placer,31,2024,Foster,0.0,0.0,,,0.1251,
+county,,,,Placer,31,2024,GR13,16533.0,1616.0,0.0977,0.9023,0.1251,-0.0274
+county,,,,Placer,31,2024,GR46,17496.0,1727.0,0.0987,0.9013,0.1251,-0.0264
+county,,,,Placer,31,2024,GR78,12107.0,1556.0,0.1285,0.8715,0.1251,0.0034
+county,,,,Placer,31,2024,GR912,25565.0,3814.0,0.1492,0.8508,0.1251,0.0241
+county,,,,Placer,31,2024,GRTK8,53324.0,6050.0,0.1135,0.8865,0.1251,-0.0116
+county,,,,Placer,31,2024,GRTKKN,7151.0,1139.0,0.1593,0.8407,0.1251,0.0342
+county,,,,Placer,31,2024,Hispanic/Latino,18073.0,2949.0,0.1632,0.8368,0.1251,0.0381
+county,,,,Placer,31,2024,Homeless,1489.0,512.0,0.3439,0.6561,0.1251,0.2188
+county,,,,Placer,31,2024,Male,40727.0,5091.0,0.125,0.875,0.1251,-0.0001
+county,,,,Placer,31,2024,Migrant,0.0,0.0,,,0.1251,
+county,,,,Placer,31,2024,Native Hawaiian/Pacific Islander,103.0,9.0,0.0874,0.9126,0.1251,-0.0377
+county,,,,Placer,31,2024,Non-binary,45.0,10.0,0.2222,0.7778,0.1251,0.0971
+county,,,,Placer,31,2024,RD,877.0,123.0,0.1403,0.8597,0.1251,0.0152
+county,,,,Placer,31,2024,Socioeconomically Disadvantaged,31158.0,5779.0,0.1855,0.8145,0.1251,0.0604
+county,,,,Placer,31,2024,Students with Disabilities,11038.0,2181.0,0.1976,0.8024,0.1251,0.0725
+county,,,,Placer,31,2024,Two or More Races,6298.0,741.0,0.1177,0.8823,0.1251,-0.0074
+county,,,,Placer,31,2024,White,41793.0,4861.0,0.1163,0.8837,0.1251,-0.0088
+county,,,,Plumas,32,2024,All Students,2144.0,678.0,0.3162,0.6838,0.3162,0.0
+county,,,,Plumas,32,2024,American Indian/Alaska Native,50.0,17.0,0.34,0.66,0.3162,0.0238
+county,,,,Plumas,32,2024,Asian,0.0,0.0,,,0.3162,
+county,,,,Plumas,32,2024,Black/African American,0.0,0.0,,,0.3162,
+county,,,,Plumas,32,2024,English Learners,74.0,21.0,0.2838,0.7162,0.3162,-0.0324
+county,,,,Plumas,32,2024,Female,1036.0,318.0,0.3069,0.6931,0.3162,-0.0093
+county,,,,Plumas,32,2024,Filipino,0.0,0.0,,,0.3162,
+county,,,,Plumas,32,2024,Foster,0.0,0.0,,,0.3162,
+county,,,,Plumas,32,2024,GR13,492.0,132.0,0.2683,0.7317,0.3162,-0.0479
+county,,,,Plumas,32,2024,GR46,455.0,121.0,0.2659,0.7341,0.3162,-0.0503
+county,,,,Plumas,32,2024,GR78,298.0,85.0,0.2852,0.7148,0.3162,-0.031
+county,,,,Plumas,32,2024,GR912,709.0,273.0,0.385,0.615,0.3162,0.0688
+county,,,,Plumas,32,2024,GRTK8,1435.0,405.0,0.2822,0.7178,0.3162,-0.034
+county,,,,Plumas,32,2024,GRTKKN,190.0,67.0,0.3526,0.6474,0.3162,0.0364
+county,,,,Plumas,32,2024,Hispanic/Latino,382.0,140.0,0.3665,0.6335,0.3162,0.0503
+county,,,,Plumas,32,2024,Homeless,115.0,50.0,0.4348,0.5652,0.3162,0.1186
+county,,,,Plumas,32,2024,Male,1090.0,345.0,0.3165,0.6835,0.3162,0.0003
+county,,,,Plumas,32,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.3162,
+county,,,,Plumas,32,2024,Non-binary,0.0,0.0,,,0.3162,
+county,,,,Plumas,32,2024,RD,18.0,6.0,0.3333,0.6667,0.3162,0.0171
+county,,,,Plumas,32,2024,Socioeconomically Disadvantaged,1352.0,497.0,0.3676,0.6324,0.3162,0.0514
+county,,,,Plumas,32,2024,Students with Disabilities,382.0,141.0,0.3691,0.6309,0.3162,0.0529
+county,,,,Plumas,32,2024,Two or More Races,176.0,49.0,0.2784,0.7216,0.3162,-0.0378
+county,,,,Plumas,32,2024,White,1408.0,419.0,0.2976,0.7024,0.3162,-0.0186
+county,,,,Riverside,33,2024,All Students,449742.0,108358.0,0.2409,0.7591,0.2409,0.0
+county,,,,Riverside,33,2024,American Indian/Alaska Native,509.0,171.0,0.336,0.664,0.2409,0.0951
+county,,,,Riverside,33,2024,Asian,15366.0,1321.0,0.086,0.914,0.2409,-0.1549
+county,,,,Riverside,33,2024,Black/African American,25871.0,7317.0,0.2828,0.7172,0.2409,0.0419
+county,,,,Riverside,33,2024,English Learners,80674.0,21709.0,0.2691,0.7309,0.2409,0.0282
+county,,,,Riverside,33,2024,Female,218676.0,52610.0,0.2406,0.7594,0.2409,-0.0003
+county,,,,Riverside,33,2024,Filipino,7024.0,603.0,0.0858,0.9142,0.2409,-0.1551
+county,,,,Riverside,33,2024,Foster,3044.0,1160.0,0.3811,0.6189,0.2409,0.1402
+county,,,,Riverside,33,2024,GR13,95548.0,20201.0,0.2114,0.7886,0.2409,-0.0295
+county,,,,Riverside,33,2024,GR46,100098.0,19679.0,0.1966,0.8034,0.2409,-0.0443
+county,,,,Riverside,33,2024,GR78,68936.0,16174.0,0.2346,0.7654,0.2409,-0.0063
+county,,,,Riverside,33,2024,GR912,145230.0,40441.0,0.2785,0.7215,0.2409,0.0376
+county,,,,Riverside,33,2024,GRTK8,304496.0,67904.0,0.223,0.777,0.2409,-0.0179
+county,,,,Riverside,33,2024,GRTKKN,39803.0,11806.0,0.2966,0.7034,0.2409,0.0557
+county,,,,Riverside,33,2024,Hispanic/Latino,301001.0,78947.0,0.2623,0.7377,0.2409,0.0214
+county,,,,Riverside,33,2024,Homeless,17330.0,6795.0,0.3921,0.6079,0.2409,0.1512
+county,,,,Riverside,33,2024,Male,230801.0,55638.0,0.2411,0.7589,0.2409,0.0002
+county,,,,Riverside,33,2024,Migrant,1370.0,493.0,0.3599,0.6401,0.2409,0.119
+county,,,,Riverside,33,2024,Native Hawaiian/Pacific Islander,378.0,137.0,0.3624,0.6376,0.2409,0.1215
+county,,,,Riverside,33,2024,Non-binary,22.0,4.0,0.1818,0.8182,0.2409,-0.0591
+county,,,,Riverside,33,2024,RD,4672.0,986.0,0.211,0.789,0.2409,-0.0299
+county,,,,Riverside,33,2024,Socioeconomically Disadvantaged,339493.0,92424.0,0.2722,0.7278,0.2409,0.0313
+county,,,,Riverside,33,2024,Students with Disabilities,71200.0,22346.0,0.3138,0.6862,0.2409,0.0729
+county,,,,Riverside,33,2024,Two or More Races,15395.0,3219.0,0.2091,0.7909,0.2409,-0.0318
+county,,,,Riverside,33,2024,White,72852.0,13646.0,0.1873,0.8127,0.2409,-0.0536
+county,,,,Sacramento,34,2024,All Students,279541.0,75736.0,0.2709,0.7291,0.2709,0.0
+county,,,,Sacramento,34,2024,American Indian/Alaska Native,323.0,109.0,0.3375,0.6625,0.2709,0.0666
+county,,,,Sacramento,34,2024,Asian,49608.0,9392.0,0.1893,0.8107,0.2709,-0.0816
+county,,,,Sacramento,34,2024,Black/African American,27900.0,10383.0,0.3722,0.6278,0.2709,0.1013
+county,,,,Sacramento,34,2024,English Learners,53750.0,12676.0,0.2358,0.7642,0.2709,-0.0351
+county,,,,Sacramento,34,2024,Female,137574.0,37957.0,0.2759,0.7241,0.2709,0.005
+county,,,,Sacramento,34,2024,Filipino,5666.0,605.0,0.1068,0.8932,0.2709,-0.1641
+county,,,,Sacramento,34,2024,Foster,312.0,135.0,0.4327,0.5673,0.2709,0.1618
+county,,,,Sacramento,34,2024,GR13,56207.0,12383.0,0.2203,0.7797,0.2709,-0.0506
+county,,,,Sacramento,34,2024,GR46,58020.0,11317.0,0.1951,0.8049,0.2709,-0.0758
+county,,,,Sacramento,34,2024,GR78,39168.0,8883.0,0.2268,0.7732,0.2709,-0.0441
+county,,,,Sacramento,34,2024,GR912,103090.0,35955.0,0.3488,0.6512,0.2709,0.0779
+county,,,,Sacramento,34,2024,GRTK8,176429.0,39767.0,0.2254,0.7746,0.2709,-0.0455
+county,,,,Sacramento,34,2024,GRTKKN,22958.0,7136.0,0.3108,0.6892,0.2709,0.0399
+county,,,,Sacramento,34,2024,Hispanic/Latino,89590.0,26504.0,0.2958,0.7042,0.2709,0.0249
+county,,,,Sacramento,34,2024,Homeless,14762.0,7278.0,0.493,0.507,0.2709,0.2221
+county,,,,Sacramento,34,2024,Male,141583.0,37630.0,0.2658,0.7342,0.2709,-0.0051
+county,,,,Sacramento,34,2024,Migrant,785.0,136.0,0.1732,0.8268,0.2709,-0.0977
+county,,,,Sacramento,34,2024,Native Hawaiian/Pacific Islander,2784.0,1015.0,0.3646,0.6354,0.2709,0.0937
+county,,,,Sacramento,34,2024,Non-binary,151.0,40.0,0.2649,0.7351,0.2709,-0.006
+county,,,,Sacramento,34,2024,RD,1217.0,362.0,0.2975,0.7025,0.2709,0.0266
+county,,,,Sacramento,34,2024,Socioeconomically Disadvantaged,184337.0,62865.0,0.341,0.659,0.2709,0.0701
+county,,,,Sacramento,34,2024,Students with Disabilities,40459.0,12760.0,0.3154,0.6846,0.2709,0.0445
+county,,,,Sacramento,34,2024,Two or More Races,22770.0,6106.0,0.2682,0.7318,0.2709,-0.0027
+county,,,,Sacramento,34,2024,White,75720.0,20018.0,0.2644,0.7356,0.2709,-0.0065
+county,,,,San Benito,35,2024,All Students,12449.0,2587.0,0.2078,0.7922,0.2078,0.0
+county,,,,San Benito,35,2024,American Indian/Alaska Native,11.0,1.0,0.0909,0.9091,0.2078,-0.1169
+county,,,,San Benito,35,2024,Asian,145.0,14.0,0.0966,0.9034,0.2078,-0.1112
+county,,,,San Benito,35,2024,Black/African American,38.0,5.0,0.1316,0.8684,0.2078,-0.0762
+county,,,,San Benito,35,2024,English Learners,2988.0,626.0,0.2095,0.7905,0.2078,0.0017
+county,,,,San Benito,35,2024,Female,6076.0,1180.0,0.1942,0.8058,0.2078,-0.0136
+county,,,,San Benito,35,2024,Filipino,55.0,5.0,0.0909,0.9091,0.2078,-0.1169
+county,,,,San Benito,35,2024,Foster,0.0,0.0,,,0.2078,
+county,,,,San Benito,35,2024,GR13,2696.0,482.0,0.1788,0.8212,0.2078,-0.029
+county,,,,San Benito,35,2024,GR46,2677.0,461.0,0.1722,0.8278,0.2078,-0.0356
+county,,,,San Benito,35,2024,GR78,1859.0,352.0,0.1893,0.8107,0.2078,-0.0185
+county,,,,San Benito,35,2024,GR912,3997.0,909.0,0.2274,0.7726,0.2078,0.0196
+county,,,,San Benito,35,2024,GRTK8,8451.0,1677.0,0.1984,0.8016,0.2078,-0.0094
+county,,,,San Benito,35,2024,GRTKKN,1157.0,367.0,0.3172,0.6828,0.2078,0.1094
+county,,,,San Benito,35,2024,Hispanic/Latino,9675.0,2136.0,0.2208,0.7792,0.2078,0.013
+county,,,,San Benito,35,2024,Homeless,386.0,109.0,0.2824,0.7176,0.2078,0.0746
+county,,,,San Benito,35,2024,Male,6327.0,1397.0,0.2208,0.7792,0.2078,0.013
+county,,,,San Benito,35,2024,Migrant,1330.0,220.0,0.1654,0.8346,0.2078,-0.0424
+county,,,,San Benito,35,2024,Native Hawaiian/Pacific Islander,12.0,0.0,0.0,1.0,0.2078,-0.2078
+county,,,,San Benito,35,2024,Non-binary,0.0,0.0,,,0.2078,
+county,,,,San Benito,35,2024,RD,254.0,54.0,0.2126,0.7874,0.2078,0.0048
+county,,,,San Benito,35,2024,Socioeconomically Disadvantaged,7459.0,1834.0,0.2459,0.7541,0.2078,0.0381
+county,,,,San Benito,35,2024,Students with Disabilities,1837.0,516.0,0.2809,0.7191,0.2078,0.0731
+county,,,,San Benito,35,2024,Two or More Races,77.0,13.0,0.1688,0.8312,0.2078,-0.039
+county,,,,San Benito,35,2024,White,1783.0,292.0,0.1638,0.8362,0.2078,-0.044
+county,,,,San Bernardino,36,2024,All Students,429566.0,107139.0,0.2494,0.7506,0.2494,0.0
+county,,,,San Bernardino,36,2024,American Indian/Alaska Native,353.0,99.0,0.2805,0.7195,0.2494,0.0311
+county,,,,San Bernardino,36,2024,Asian,16850.0,1176.0,0.0698,0.9302,0.2494,-0.1796
+county,,,,San Bernardino,36,2024,Black/African American,34266.0,12029.0,0.351,0.649,0.2494,0.1016
+county,,,,San Bernardino,36,2024,English Learners,69720.0,17399.0,0.2496,0.7504,0.2494,0.0002
+county,,,,San Bernardino,36,2024,Female,208988.0,52057.0,0.2491,0.7509,0.2494,-0.0003
+county,,,,San Bernardino,36,2024,Filipino,4011.0,318.0,0.0793,0.9207,0.2494,-0.1701
+county,,,,San Bernardino,36,2024,Foster,3709.0,1264.0,0.3408,0.6592,0.2494,0.0914
+county,,,,San Bernardino,36,2024,GR13,91075.0,20197.0,0.2218,0.7782,0.2494,-0.0276
+county,,,,San Bernardino,36,2024,GR46,94951.0,19303.0,0.2033,0.7967,0.2494,-0.0461
+county,,,,San Bernardino,36,2024,GR78,65913.0,15768.0,0.2392,0.7608,0.2494,-0.0102
+county,,,,San Bernardino,36,2024,GR912,139735.0,40008.0,0.2863,0.7137,0.2494,0.0369
+county,,,,San Bernardino,36,2024,GRTK8,289782.0,67104.0,0.2316,0.7684,0.2494,-0.0178
+county,,,,San Bernardino,36,2024,GRTKKN,37720.0,11794.0,0.3127,0.6873,0.2494,0.0633
+county,,,,San Bernardino,36,2024,Hispanic/Latino,294629.0,76952.0,0.2612,0.7388,0.2494,0.0118
+county,,,,San Bernardino,36,2024,Homeless,27165.0,10006.0,0.3683,0.6317,0.2494,0.1189
+county,,,,San Bernardino,36,2024,Male,220133.0,54896.0,0.2494,0.7506,0.2494,0.0
+county,,,,San Bernardino,36,2024,Migrant,0.0,0.0,,,0.2494,
+county,,,,San Bernardino,36,2024,Native Hawaiian/Pacific Islander,360.0,110.0,0.3056,0.6944,0.2494,0.0562
+county,,,,San Bernardino,36,2024,Non-binary,71.0,27.0,0.3803,0.6197,0.2494,0.1309
+county,,,,San Bernardino,36,2024,RD,2327.0,452.0,0.1942,0.8058,0.2494,-0.0552
+county,,,,San Bernardino,36,2024,Socioeconomically Disadvantaged,324172.0,92605.0,0.2857,0.7143,0.2494,0.0363
+county,,,,San Bernardino,36,2024,Students with Disabilities,66219.0,21426.0,0.3236,0.6764,0.2494,0.0742
+county,,,,San Bernardino,36,2024,Two or More Races,11366.0,2609.0,0.2295,0.7705,0.2494,-0.0199
+county,,,,San Bernardino,36,2024,White,57764.0,11366.0,0.1968,0.8032,0.2494,-0.0526
+county,,,,San Diego,37,2024,All Students,506853.0,99027.0,0.1954,0.8046,0.1954,0.0
+county,,,,San Diego,37,2024,American Indian/Alaska Native,1148.0,465.0,0.4051,0.5949,0.1954,0.2097
+county,,,,San Diego,37,2024,Asian,32708.0,2598.0,0.0794,0.9206,0.1954,-0.116
+county,,,,San Diego,37,2024,Black/African American,20316.0,4826.0,0.2375,0.7625,0.1954,0.0421
+county,,,,San Diego,37,2024,English Learners,95475.0,25138.0,0.2633,0.7367,0.1954,0.0679
+county,,,,San Diego,37,2024,Female,245159.0,47875.0,0.1953,0.8047,0.1954,-0.0001
+county,,,,San Diego,37,2024,Filipino,15693.0,1534.0,0.0978,0.9022,0.1954,-0.0976
+county,,,,San Diego,37,2024,Foster,352.0,161.0,0.4574,0.5426,0.1954,0.262
+county,,,,San Diego,37,2024,GR13,106839.0,17738.0,0.166,0.834,0.1954,-0.0294
+county,,,,San Diego,37,2024,GR46,109680.0,16892.0,0.154,0.846,0.1954,-0.0414
+county,,,,San Diego,37,2024,GR78,74672.0,13921.0,0.1864,0.8136,0.1954,-0.009
+county,,,,San Diego,37,2024,GR912,166411.0,38621.0,0.2321,0.7679,0.1954,0.0367
+county,,,,San Diego,37,2024,GRTK8,340366.0,60377.0,0.1774,0.8226,0.1954,-0.018
+county,,,,San Diego,37,2024,GRTKKN,48905.0,11732.0,0.2399,0.7601,0.1954,0.0445
+county,,,,San Diego,37,2024,Hispanic/Latino,252199.0,62779.0,0.2489,0.7511,0.1954,0.0535
+county,,,,San Diego,37,2024,Homeless,22184.0,8315.0,0.3748,0.6252,0.1954,0.1794
+county,,,,San Diego,37,2024,Male,261067.0,50944.0,0.1951,0.8049,0.1954,-0.0003
+county,,,,San Diego,37,2024,Migrant,1704.0,367.0,0.2154,0.7846,0.1954,0.02
+county,,,,San Diego,37,2024,Native Hawaiian/Pacific Islander,502.0,135.0,0.2689,0.7311,0.1954,0.0735
+county,,,,San Diego,37,2024,Non-binary,86.0,38.0,0.4419,0.5581,0.1954,0.2465
+county,,,,San Diego,37,2024,RD,2372.0,392.0,0.1653,0.8347,0.1954,-0.0301
+county,,,,San Diego,37,2024,Socioeconomically Disadvantaged,282505.0,73372.0,0.2597,0.7403,0.1954,0.0643
+county,,,,San Diego,37,2024,Students with Disabilities,88465.0,24662.0,0.2788,0.7212,0.1954,0.0834
+county,,,,San Diego,37,2024,Two or More Races,34623.0,5181.0,0.1496,0.8504,0.1954,-0.0458
+county,,,,San Diego,37,2024,White,138175.0,18996.0,0.1375,0.8625,0.1954,-0.0579
+county,,,,San Francisco,38,2024,All Students,61726.0,17568.0,0.2846,0.7154,0.2846,0.0
+county,,,,San Francisco,38,2024,American Indian/Alaska Native,49.0,35.0,0.7143,0.2857,0.2846,0.4297
+county,,,,San Francisco,38,2024,Asian,15944.0,1101.0,0.0691,0.9309,0.2846,-0.2155
+county,,,,San Francisco,38,2024,Black/African American,5089.0,3086.0,0.6064,0.3936,0.2846,0.3218
+county,,,,San Francisco,38,2024,English Learners,15485.0,4387.0,0.2833,0.7167,0.2846,-0.0013
+county,,,,San Francisco,38,2024,Female,29069.0,8292.0,0.2853,0.7147,0.2846,0.0007
+county,,,,San Francisco,38,2024,Filipino,1676.0,327.0,0.1951,0.8049,0.2846,-0.0895
+county,,,,San Francisco,38,2024,Foster,100.0,76.0,0.76,0.24,0.2846,0.4754
+county,,,,San Francisco,38,2024,GR13,12586.0,2543.0,0.202,0.798,0.2846,-0.0826
+county,,,,San Francisco,38,2024,GR46,12226.0,2207.0,0.1805,0.8195,0.2846,-0.1041
+county,,,,San Francisco,38,2024,GR78,7867.0,1643.0,0.2088,0.7912,0.2846,-0.0758
+county,,,,San Francisco,38,2024,GR912,23940.0,9707.0,0.4055,0.5945,0.2846,0.1209
+county,,,,San Francisco,38,2024,GRTK8,37777.0,7856.0,0.208,0.792,0.2846,-0.0766
+county,,,,San Francisco,38,2024,GRTKKN,5087.0,1461.0,0.2872,0.7128,0.2846,0.0026
+county,,,,San Francisco,38,2024,Hispanic/Latino,23141.0,9375.0,0.4051,0.5949,0.2846,0.1205
+county,,,,San Francisco,38,2024,Homeless,3785.0,2001.0,0.5287,0.4713,0.2846,0.2441
+county,,,,San Francisco,38,2024,Male,32587.0,9253.0,0.2839,0.7161,0.2846,-0.0007
+county,,,,San Francisco,38,2024,Migrant,30.0,11.0,0.3667,0.6333,0.2846,0.0821
+county,,,,San Francisco,38,2024,Native Hawaiian/Pacific Islander,256.0,164.0,0.6406,0.3594,0.2846,0.356
+county,,,,San Francisco,38,2024,Non-binary,17.0,13.0,0.7647,0.2353,0.2846,0.4801
+county,,,,San Francisco,38,2024,RD,1958.0,461.0,0.2354,0.7646,0.2846,-0.0492
+county,,,,San Francisco,38,2024,Socioeconomically Disadvantaged,34370.0,11418.0,0.3322,0.6678,0.2846,0.0476
+county,,,,San Francisco,38,2024,Students with Disabilities,9070.0,3298.0,0.3636,0.6364,0.2846,0.079
+county,,,,San Francisco,38,2024,Two or More Races,4243.0,1005.0,0.2369,0.7631,0.2846,-0.0477
+county,,,,San Francisco,38,2024,White,7865.0,1419.0,0.1804,0.8196,0.2846,-0.1042
+county,,,,San Joaquin,39,2024,All Students,165814.0,39406.0,0.2377,0.7623,0.2377,0.0
+county,,,,San Joaquin,39,2024,American Indian/Alaska Native,355.0,71.0,0.2,0.8,0.2377,-0.0377
+county,,,,San Joaquin,39,2024,Asian,24058.0,3564.0,0.1481,0.8519,0.2377,-0.0896
+county,,,,San Joaquin,39,2024,Black/African American,11630.0,4060.0,0.3491,0.6509,0.2377,0.1114
+county,,,,San Joaquin,39,2024,English Learners,34677.0,8617.0,0.2485,0.7515,0.2377,0.0108
+county,,,,San Joaquin,39,2024,Female,80737.0,19037.0,0.2358,0.7642,0.2377,-0.0019
+county,,,,San Joaquin,39,2024,Filipino,5824.0,686.0,0.1178,0.8822,0.2377,-0.1199
+county,,,,San Joaquin,39,2024,Foster,392.0,167.0,0.426,0.574,0.2377,0.1883
+county,,,,San Joaquin,39,2024,GR13,35135.0,8056.0,0.2293,0.7707,0.2377,-0.0084
+county,,,,San Joaquin,39,2024,GR46,36719.0,7372.0,0.2008,0.7992,0.2377,-0.0369
+county,,,,San Joaquin,39,2024,GR78,25653.0,5621.0,0.2191,0.7809,0.2377,-0.0186
+county,,,,San Joaquin,39,2024,GR912,54128.0,13383.0,0.2472,0.7528,0.2377,0.0095
+county,,,,San Joaquin,39,2024,GRTK8,111659.0,26011.0,0.233,0.767,0.2377,-0.0047
+county,,,,San Joaquin,39,2024,GRTKKN,14094.0,4935.0,0.3501,0.6499,0.2377,0.1124
+county,,,,San Joaquin,39,2024,Hispanic/Latino,89511.0,23719.0,0.265,0.735,0.2377,0.0273
+county,,,,San Joaquin,39,2024,Homeless,6092.0,2474.0,0.4061,0.5939,0.2377,0.1684
+county,,,,San Joaquin,39,2024,Male,84808.0,20269.0,0.239,0.761,0.2377,0.0013
+county,,,,San Joaquin,39,2024,Migrant,839.0,205.0,0.2443,0.7557,0.2377,0.0066
+county,,,,San Joaquin,39,2024,Native Hawaiian/Pacific Islander,539.0,158.0,0.2931,0.7069,0.2377,0.0554
+county,,,,San Joaquin,39,2024,Non-binary,75.0,31.0,0.4133,0.5867,0.2377,0.1756
+county,,,,San Joaquin,39,2024,RD,1188.0,277.0,0.2332,0.7668,0.2377,-0.0045
+county,,,,San Joaquin,39,2024,Socioeconomically Disadvantaged,115948.0,32479.0,0.2801,0.7199,0.2377,0.0424
+county,,,,San Joaquin,39,2024,Students with Disabilities,23963.0,7743.0,0.3231,0.6769,0.2377,0.0854
+county,,,,San Joaquin,39,2024,Two or More Races,7244.0,1826.0,0.2521,0.7479,0.2377,0.0144
+county,,,,San Joaquin,39,2024,White,22623.0,4170.0,0.1843,0.8157,0.2377,-0.0534
+county,,,,San Luis Obispo,40,2024,All Students,34317.0,6532.0,0.1903,0.8097,0.1903,0.0
+county,,,,San Luis Obispo,40,2024,American Indian/Alaska Native,0.0,0.0,,,0.1903,
+county,,,,San Luis Obispo,40,2024,Asian,293.0,21.0,0.0717,0.9283,0.1903,-0.1186
+county,,,,San Luis Obispo,40,2024,Black/African American,109.0,23.0,0.211,0.789,0.1903,0.0207
+county,,,,San Luis Obispo,40,2024,English Learners,4569.0,954.0,0.2088,0.7912,0.1903,0.0185
+county,,,,San Luis Obispo,40,2024,Female,16437.0,3088.0,0.1879,0.8121,0.1903,-0.0024
+county,,,,San Luis Obispo,40,2024,Filipino,146.0,12.0,0.0822,0.9178,0.1903,-0.1081
+county,,,,San Luis Obispo,40,2024,Foster,12.0,3.0,0.25,0.75,0.1903,0.0597
+county,,,,San Luis Obispo,40,2024,GR13,6913.0,882.0,0.1276,0.8724,0.1903,-0.0627
+county,,,,San Luis Obispo,40,2024,GR46,7242.0,1031.0,0.1424,0.8576,0.1903,-0.0479
+county,,,,San Luis Obispo,40,2024,GR78,5192.0,1059.0,0.204,0.796,0.1903,0.0137
+county,,,,San Luis Obispo,40,2024,GR912,11761.0,2947.0,0.2506,0.7494,0.1903,0.0603
+county,,,,San Luis Obispo,40,2024,GRTK8,22553.0,3582.0,0.1588,0.8412,0.1903,-0.0315
+county,,,,San Luis Obispo,40,2024,GRTKKN,3139.0,590.0,0.188,0.812,0.1903,-0.0023
+county,,,,San Luis Obispo,40,2024,Hispanic/Latino,15379.0,3314.0,0.2155,0.7845,0.1903,0.0252
+county,,,,San Luis Obispo,40,2024,Homeless,3752.0,1017.0,0.2711,0.7289,0.1903,0.0808
+county,,,,San Luis Obispo,40,2024,Male,17765.0,3385.0,0.1905,0.8095,0.1903,0.0002
+county,,,,San Luis Obispo,40,2024,Migrant,282.0,47.0,0.1667,0.8333,0.1903,-0.0236
+county,,,,San Luis Obispo,40,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1903,
+county,,,,San Luis Obispo,40,2024,Non-binary,24.0,8.0,0.3333,0.6667,0.1903,0.143
+county,,,,San Luis Obispo,40,2024,RD,243.0,44.0,0.1811,0.8189,0.1903,-0.0092
+county,,,,San Luis Obispo,40,2024,Socioeconomically Disadvantaged,19592.0,4690.0,0.2394,0.7606,0.1903,0.0491
+county,,,,San Luis Obispo,40,2024,Students with Disabilities,5709.0,1628.0,0.2852,0.7148,0.1903,0.0949
+county,,,,San Luis Obispo,40,2024,Two or More Races,1484.0,254.0,0.1712,0.8288,0.1903,-0.0191
+county,,,,San Luis Obispo,40,2024,White,15635.0,2634.0,0.1685,0.8315,0.1903,-0.0218
+county,,,,San Mateo,41,2024,All Students,87394.0,14144.0,0.1618,0.8382,0.1618,0.0
+county,,,,San Mateo,41,2024,American Indian/Alaska Native,62.0,12.0,0.1935,0.8065,0.1618,0.0317
+county,,,,San Mateo,41,2024,Asian,15280.0,752.0,0.0492,0.9508,0.1618,-0.1126
+county,,,,San Mateo,41,2024,Black/African American,562.0,166.0,0.2954,0.7046,0.1618,0.1336
+county,,,,San Mateo,41,2024,English Learners,19978.0,5219.0,0.2612,0.7388,0.1618,0.0994
+county,,,,San Mateo,41,2024,Female,41845.0,6724.0,0.1607,0.8393,0.1618,-0.0011
+county,,,,San Mateo,41,2024,Filipino,5828.0,734.0,0.1259,0.8741,0.1618,-0.0359
+county,,,,San Mateo,41,2024,Foster,0.0,0.0,,,0.1618,
+county,,,,San Mateo,41,2024,GR13,18509.0,2714.0,0.1466,0.8534,0.1618,-0.0152
+county,,,,San Mateo,41,2024,GR46,19288.0,2435.0,0.1262,0.8738,0.1618,-0.0356
+county,,,,San Mateo,41,2024,GR78,13185.0,2101.0,0.1593,0.8407,0.1618,-0.0025
+county,,,,San Mateo,41,2024,GR912,28464.0,5155.0,0.1811,0.8189,0.1618,0.0193
+county,,,,San Mateo,41,2024,GRTK8,58913.0,8982.0,0.1525,0.8475,0.1618,-0.0093
+county,,,,San Mateo,41,2024,GRTKKN,7881.0,1730.0,0.2195,0.7805,0.1618,0.0577
+county,,,,San Mateo,41,2024,Hispanic/Latino,35377.0,8818.0,0.2493,0.7507,0.1618,0.0875
+county,,,,San Mateo,41,2024,Homeless,2454.0,942.0,0.3839,0.6161,0.1618,0.2221
+county,,,,San Mateo,41,2024,Male,45427.0,7388.0,0.1626,0.8374,0.1618,0.0008
+county,,,,San Mateo,41,2024,Migrant,189.0,23.0,0.1217,0.8783,0.1618,-0.0401
+county,,,,San Mateo,41,2024,Native Hawaiian/Pacific Islander,915.0,380.0,0.4153,0.5847,0.1618,0.2535
+county,,,,San Mateo,41,2024,Non-binary,0.0,0.0,,,0.1618,
+county,,,,San Mateo,41,2024,RD,802.0,112.0,0.1397,0.8603,0.1618,-0.0221
+county,,,,San Mateo,41,2024,Socioeconomically Disadvantaged,35284.0,8919.0,0.2528,0.7472,0.1618,0.091
+county,,,,San Mateo,41,2024,Students with Disabilities,11847.0,3164.0,0.2671,0.7329,0.1618,0.1053
+county,,,,San Mateo,41,2024,Two or More Races,6891.0,666.0,0.0966,0.9034,0.1618,-0.0652
+county,,,,San Mateo,41,2024,White,19668.0,1945.0,0.0989,0.9011,0.1618,-0.0629
+county,,,,Santa Barbara,42,2024,All Students,70262.0,11713.0,0.1667,0.8333,0.1667,0.0
+county,,,,Santa Barbara,42,2024,American Indian/Alaska Native,27.0,6.0,0.2222,0.7778,0.1667,0.0555
+county,,,,Santa Barbara,42,2024,Asian,707.0,64.0,0.0905,0.9095,0.1667,-0.0762
+county,,,,Santa Barbara,42,2024,Black/African American,221.0,41.0,0.1855,0.8145,0.1667,0.0188
+county,,,,Santa Barbara,42,2024,English Learners,19148.0,2720.0,0.1421,0.8579,0.1667,-0.0246
+county,,,,Santa Barbara,42,2024,Female,34117.0,5643.0,0.1654,0.8346,0.1667,-0.0013
+county,,,,Santa Barbara,42,2024,Filipino,424.0,41.0,0.0967,0.9033,0.1667,-0.07
+county,,,,Santa Barbara,42,2024,Foster,149.0,60.0,0.4027,0.5973,0.1667,0.236
+county,,,,Santa Barbara,42,2024,GR13,15001.0,1836.0,0.1224,0.8776,0.1667,-0.0443
+county,,,,Santa Barbara,42,2024,GR46,15383.0,1727.0,0.1123,0.8877,0.1667,-0.0544
+county,,,,Santa Barbara,42,2024,GR78,10367.0,1908.0,0.184,0.816,0.1667,0.0173
+county,,,,Santa Barbara,42,2024,GR912,22240.0,4781.0,0.215,0.785,0.1667,0.0483
+county,,,,Santa Barbara,42,2024,GRTK8,48021.0,6932.0,0.1444,0.8556,0.1667,-0.0223
+county,,,,Santa Barbara,42,2024,GRTKKN,7150.0,1423.0,0.199,0.801,0.1667,0.0323
+county,,,,Santa Barbara,42,2024,Hispanic/Latino,51472.0,9093.0,0.1767,0.8233,0.1667,0.01
+county,,,,Santa Barbara,42,2024,Homeless,9071.0,1425.0,0.1571,0.8429,0.1667,-0.0096
+county,,,,Santa Barbara,42,2024,Male,36034.0,6031.0,0.1674,0.8326,0.1667,0.0007
+county,,,,Santa Barbara,42,2024,Migrant,2471.0,304.0,0.123,0.877,0.1667,-0.0437
+county,,,,Santa Barbara,42,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1667,
+county,,,,Santa Barbara,42,2024,Non-binary,0.0,0.0,,,0.1667,
+county,,,,Santa Barbara,42,2024,RD,551.0,94.0,0.1706,0.8294,0.1667,0.0039
+county,,,,Santa Barbara,42,2024,Socioeconomically Disadvantaged,49690.0,9361.0,0.1884,0.8116,0.1667,0.0217
+county,,,,Santa Barbara,42,2024,Students with Disabilities,10245.0,2621.0,0.2558,0.7442,0.1667,0.0891
+county,,,,Santa Barbara,42,2024,Two or More Races,1794.0,241.0,0.1343,0.8657,0.1667,-0.0324
+county,,,,Santa Barbara,42,2024,White,13435.0,1797.0,0.1338,0.8662,0.1667,-0.0329
+county,,,,Santa Clara,43,2024,All Students,244722.0,41668.0,0.1703,0.8297,0.1703,0.0
+county,,,,Santa Clara,43,2024,American Indian/Alaska Native,51.0,10.0,0.1961,0.8039,0.1703,0.0258
+county,,,,Santa Clara,43,2024,Asian,74015.0,4444.0,0.06,0.94,0.1703,-0.1103
+county,,,,Santa Clara,43,2024,Black/African American,3180.0,687.0,0.216,0.784,0.1703,0.0457
+county,,,,Santa Clara,43,2024,English Learners,60040.0,13935.0,0.2321,0.7679,0.1703,0.0618
+county,,,,Santa Clara,43,2024,Female,117959.0,20193.0,0.1712,0.8288,0.1703,0.0009
+county,,,,Santa Clara,43,2024,Filipino,7821.0,790.0,0.101,0.899,0.1703,-0.0693
+county,,,,Santa Clara,43,2024,Foster,31.0,29.0,0.9355,0.0645,0.1703,0.7652
+county,,,,Santa Clara,43,2024,GR13,51121.0,7399.0,0.1447,0.8553,0.1703,-0.0256
+county,,,,Santa Clara,43,2024,GR46,53733.0,6746.0,0.1255,0.8745,0.1703,-0.0448
+county,,,,Santa Clara,43,2024,GR78,36259.0,5657.0,0.156,0.844,0.1703,-0.0143
+county,,,,Santa Clara,43,2024,GR912,81813.0,16777.0,0.2051,0.7949,0.1703,0.0348
+county,,,,Santa Clara,43,2024,GRTK8,162893.0,24887.0,0.1528,0.8472,0.1703,-0.0175
+county,,,,Santa Clara,43,2024,GRTKKN,21726.0,5071.0,0.2334,0.7666,0.1703,0.0631
+county,,,,Santa Clara,43,2024,Hispanic/Latino,101904.0,28504.0,0.2797,0.7203,0.1703,0.1094
+county,,,,Santa Clara,43,2024,Homeless,6323.0,2534.0,0.4008,0.5992,0.1703,0.2305
+county,,,,Santa Clara,43,2024,Male,126474.0,21393.0,0.1691,0.8309,0.1703,-0.0012
+county,,,,Santa Clara,43,2024,Migrant,313.0,81.0,0.2588,0.7412,0.1703,0.0885
+county,,,,Santa Clara,43,2024,Native Hawaiian/Pacific Islander,174.0,54.0,0.3103,0.6897,0.1703,0.14
+county,,,,Santa Clara,43,2024,Non-binary,63.0,12.0,0.1905,0.8095,0.1703,0.0202
+county,,,,Santa Clara,43,2024,RD,2246.0,289.0,0.1287,0.8713,0.1703,-0.0416
+county,,,,Santa Clara,43,2024,Socioeconomically Disadvantaged,101681.0,27360.0,0.2691,0.7309,0.1703,0.0988
+county,,,,Santa Clara,43,2024,Students with Disabilities,31997.0,9372.0,0.2929,0.7071,0.1703,0.1226
+county,,,,Santa Clara,43,2024,Two or More Races,13696.0,1455.0,0.1062,0.8938,0.1703,-0.0641
+county,,,,Santa Clara,43,2024,White,36872.0,4258.0,0.1155,0.8845,0.1703,-0.0548
+county,,,,Santa Cruz,44,2024,All Students,39554.0,7848.0,0.1984,0.8016,0.1984,0.0
+county,,,,Santa Cruz,44,2024,American Indian/Alaska Native,0.0,0.0,,,0.1984,
+county,,,,Santa Cruz,44,2024,Asian,686.0,33.0,0.0481,0.9519,0.1984,-0.1503
+county,,,,Santa Cruz,44,2024,Black/African American,86.0,19.0,0.2209,0.7791,0.1984,0.0225
+county,,,,Santa Cruz,44,2024,English Learners,9240.0,2113.0,0.2287,0.7713,0.1984,0.0303
+county,,,,Santa Cruz,44,2024,Female,19158.0,3820.0,0.1994,0.8006,0.1984,0.001
+county,,,,Santa Cruz,44,2024,Filipino,95.0,8.0,0.0842,0.9158,0.1984,-0.1142
+county,,,,Santa Cruz,44,2024,Foster,31.0,6.0,0.1935,0.8065,0.1984,-0.0049
+county,,,,Santa Cruz,44,2024,GR13,8067.0,1429.0,0.1771,0.8229,0.1984,-0.0213
+county,,,,Santa Cruz,44,2024,GR46,8444.0,1440.0,0.1705,0.8295,0.1984,-0.0279
+county,,,,Santa Cruz,44,2024,GR78,5988.0,1239.0,0.2069,0.7931,0.1984,0.0085
+county,,,,Santa Cruz,44,2024,GR912,13654.0,2948.0,0.2159,0.7841,0.1984,0.0175
+county,,,,Santa Cruz,44,2024,GRTK8,25885.0,4890.0,0.1889,0.8111,0.1984,-0.0095
+county,,,,Santa Cruz,44,2024,GRTKKN,3341.0,772.0,0.2311,0.7689,0.1984,0.0327
+county,,,,Santa Cruz,44,2024,Hispanic/Latino,22982.0,5352.0,0.2329,0.7671,0.1984,0.0345
+county,,,,Santa Cruz,44,2024,Homeless,2584.0,631.0,0.2442,0.7558,0.1984,0.0458
+county,,,,Santa Cruz,44,2024,Male,20327.0,4009.0,0.1972,0.8028,0.1984,-0.0012
+county,,,,Santa Cruz,44,2024,Migrant,1316.0,281.0,0.2135,0.7865,0.1984,0.0151
+county,,,,Santa Cruz,44,2024,Native Hawaiian/Pacific Islander,28.0,2.0,0.0714,0.9286,0.1984,-0.127
+county,,,,Santa Cruz,44,2024,Non-binary,0.0,0.0,,,0.1984,
+county,,,,Santa Cruz,44,2024,RD,469.0,19.0,0.0405,0.9595,0.1984,-0.1579
+county,,,,Santa Cruz,44,2024,Socioeconomically Disadvantaged,22487.0,5627.0,0.2502,0.7498,0.1984,0.0518
+county,,,,Santa Cruz,44,2024,Students with Disabilities,6162.0,1748.0,0.2837,0.7163,0.1984,0.0853
+county,,,,Santa Cruz,44,2024,Two or More Races,1686.0,246.0,0.1459,0.8541,0.1984,-0.0525
+county,,,,Santa Cruz,44,2024,White,12610.0,1958.0,0.1553,0.8447,0.1984,-0.0431
+county,,,,Shasta,45,2024,All Students,28643.0,5580.0,0.1948,0.8052,0.1948,0.0
+county,,,,Shasta,45,2024,American Indian/Alaska Native,930.0,265.0,0.2849,0.7151,0.1948,0.0901
+county,,,,Shasta,45,2024,Asian,899.0,96.0,0.1068,0.8932,0.1948,-0.088
+county,,,,Shasta,45,2024,Black/African American,281.0,84.0,0.2989,0.7011,0.1948,0.1041
+county,,,,Shasta,45,2024,English Learners,802.0,163.0,0.2032,0.7968,0.1948,0.0084
+county,,,,Shasta,45,2024,Female,13730.0,2571.0,0.1873,0.8127,0.1948,-0.0075
+county,,,,Shasta,45,2024,Filipino,0.0,0.0,,,0.1948,
+county,,,,Shasta,45,2024,Foster,197.0,53.0,0.269,0.731,0.1948,0.0742
+county,,,,Shasta,45,2024,GR13,6033.0,868.0,0.1439,0.8561,0.1948,-0.0509
+county,,,,Shasta,45,2024,GR46,6220.0,943.0,0.1516,0.8484,0.1948,-0.0432
+county,,,,Shasta,45,2024,GR78,4223.0,768.0,0.1819,0.8181,0.1948,-0.0129
+county,,,,Shasta,45,2024,GR912,9214.0,2357.0,0.2558,0.7442,0.1948,0.061
+county,,,,Shasta,45,2024,GRTK8,19400.0,3201.0,0.165,0.835,0.1948,-0.0298
+county,,,,Shasta,45,2024,GRTKKN,2765.0,576.0,0.2083,0.7917,0.1948,0.0135
+county,,,,Shasta,45,2024,Hispanic/Latino,5227.0,1117.0,0.2137,0.7863,0.1948,0.0189
+county,,,,Shasta,45,2024,Homeless,720.0,328.0,0.4556,0.5444,0.1948,0.2608
+county,,,,Shasta,45,2024,Male,14782.0,2932.0,0.1983,0.8017,0.1948,0.0035
+county,,,,Shasta,45,2024,Migrant,27.0,6.0,0.2222,0.7778,0.1948,0.0274
+county,,,,Shasta,45,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1948,
+county,,,,Shasta,45,2024,Non-binary,0.0,0.0,,,0.1948,
+county,,,,Shasta,45,2024,RD,269.0,41.0,0.1524,0.8476,0.1948,-0.0424
+county,,,,Shasta,45,2024,Socioeconomically Disadvantaged,18106.0,4435.0,0.2449,0.7551,0.1948,0.0501
+county,,,,Shasta,45,2024,Students with Disabilities,4221.0,1078.0,0.2554,0.7446,0.1948,0.0606
+county,,,,Shasta,45,2024,Two or More Races,1848.0,337.0,0.1824,0.8176,0.1948,-0.0124
+county,,,,Shasta,45,2024,White,17932.0,3261.0,0.1819,0.8181,0.1948,-0.0129
+county,,,,Sierra,46,2024,All Students,413.0,129.0,0.3123,0.6877,0.3123,0.0
+county,,,,Sierra,46,2024,American Indian/Alaska Native,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,Asian,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,Black/African American,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,English Learners,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,Female,195.0,65.0,0.3333,0.6667,0.3123,0.021
+county,,,,Sierra,46,2024,Filipino,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,Foster,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,GR13,96.0,22.0,0.2292,0.7708,0.3123,-0.0831
+county,,,,Sierra,46,2024,GR46,97.0,29.0,0.299,0.701,0.3123,-0.0133
+county,,,,Sierra,46,2024,GR78,41.0,13.0,0.3171,0.6829,0.3123,0.0048
+county,,,,Sierra,46,2024,GR912,131.0,52.0,0.3969,0.6031,0.3123,0.0846
+county,,,,Sierra,46,2024,GRTK8,272.0,76.0,0.2794,0.7206,0.3123,-0.0329
+county,,,,Sierra,46,2024,GRTKKN,32.0,11.0,0.3438,0.6562,0.3123,0.0315
+county,,,,Sierra,46,2024,Hispanic/Latino,57.0,12.0,0.2105,0.7895,0.3123,-0.1018
+county,,,,Sierra,46,2024,Homeless,17.0,7.0,0.4118,0.5882,0.3123,0.0995
+county,,,,Sierra,46,2024,Male,218.0,64.0,0.2936,0.7064,0.3123,-0.0187
+county,,,,Sierra,46,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,RD,0.0,0.0,,,0.3123,
+county,,,,Sierra,46,2024,Socioeconomically Disadvantaged,184.0,66.0,0.3587,0.6413,0.3123,0.0464
+county,,,,Sierra,46,2024,Students with Disabilities,56.0,20.0,0.3571,0.6429,0.3123,0.0448
+county,,,,Sierra,46,2024,Two or More Races,13.0,5.0,0.3846,0.6154,0.3123,0.0723
+county,,,,Sierra,46,2024,White,303.0,97.0,0.3201,0.6799,0.3123,0.0078
+county,,,,Siskiyou,47,2024,All Students,5993.0,1609.0,0.2685,0.7315,0.2685,0.0
+county,,,,Siskiyou,47,2024,American Indian/Alaska Native,263.0,120.0,0.4563,0.5437,0.2685,0.1878
+county,,,,Siskiyou,47,2024,Asian,108.0,27.0,0.25,0.75,0.2685,-0.0185
+county,,,,Siskiyou,47,2024,Black/African American,32.0,11.0,0.3438,0.6562,0.2685,0.0753
+county,,,,Siskiyou,47,2024,English Learners,198.0,47.0,0.2374,0.7626,0.2685,-0.0311
+county,,,,Siskiyou,47,2024,Female,2876.0,746.0,0.2594,0.7406,0.2685,-0.0091
+county,,,,Siskiyou,47,2024,Filipino,0.0,0.0,,,0.2685,
+county,,,,Siskiyou,47,2024,Foster,27.0,4.0,0.1481,0.8519,0.2685,-0.1204
+county,,,,Siskiyou,47,2024,GR13,1189.0,299.0,0.2515,0.7485,0.2685,-0.017
+county,,,,Siskiyou,47,2024,GR46,1288.0,291.0,0.2259,0.7741,0.2685,-0.0426
+county,,,,Siskiyou,47,2024,GR78,855.0,205.0,0.2398,0.7602,0.2685,-0.0287
+county,,,,Siskiyou,47,2024,GR912,1951.0,581.0,0.2978,0.7022,0.2685,0.0293
+county,,,,Siskiyou,47,2024,GRTK8,4041.0,1027.0,0.2541,0.7459,0.2685,-0.0144
+county,,,,Siskiyou,47,2024,GRTKKN,562.0,178.0,0.3167,0.6833,0.2685,0.0482
+county,,,,Siskiyou,47,2024,Hispanic/Latino,1053.0,266.0,0.2526,0.7474,0.2685,-0.0159
+county,,,,Siskiyou,47,2024,Homeless,207.0,104.0,0.5024,0.4976,0.2685,0.2339
+county,,,,Siskiyou,47,2024,Male,3037.0,829.0,0.273,0.727,0.2685,0.0045
+county,,,,Siskiyou,47,2024,Migrant,0.0,0.0,,,0.2685,
+county,,,,Siskiyou,47,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2685,
+county,,,,Siskiyou,47,2024,Non-binary,0.0,0.0,,,0.2685,
+county,,,,Siskiyou,47,2024,RD,134.0,49.0,0.3657,0.6343,0.2685,0.0972
+county,,,,Siskiyou,47,2024,Socioeconomically Disadvantaged,4100.0,1287.0,0.3139,0.6861,0.2685,0.0454
+county,,,,Siskiyou,47,2024,Students with Disabilities,680.0,228.0,0.3353,0.6647,0.2685,0.0668
+county,,,,Siskiyou,47,2024,Two or More Races,534.0,149.0,0.279,0.721,0.2685,0.0105
+county,,,,Siskiyou,47,2024,White,3422.0,816.0,0.2385,0.7615,0.2685,-0.03
+county,,,,Solano,48,2024,All Students,63050.0,15471.0,0.2454,0.7546,0.2454,0.0
+county,,,,Solano,48,2024,American Indian/Alaska Native,11.0,1.0,0.0909,0.9091,0.2454,-0.1545
+county,,,,Solano,48,2024,Asian,2533.0,334.0,0.1319,0.8681,0.2454,-0.1135
+county,,,,Solano,48,2024,Black/African American,7881.0,2692.0,0.3416,0.6584,0.2454,0.0962
+county,,,,Solano,48,2024,English Learners,9546.0,2936.0,0.3076,0.6924,0.2454,0.0622
+county,,,,Solano,48,2024,Female,30459.0,7543.0,0.2476,0.7524,0.2454,0.0022
+county,,,,Solano,48,2024,Filipino,4758.0,628.0,0.132,0.868,0.2454,-0.1134
+county,,,,Solano,48,2024,Foster,51.0,28.0,0.549,0.451,0.2454,0.3036
+county,,,,Solano,48,2024,GR13,14003.0,3295.0,0.2353,0.7647,0.2454,-0.0101
+county,,,,Solano,48,2024,GR46,14032.0,2965.0,0.2113,0.7887,0.2454,-0.0341
+county,,,,Solano,48,2024,GR78,9348.0,2258.0,0.2415,0.7585,0.2454,-0.0039
+county,,,,Solano,48,2024,GR912,19875.0,5066.0,0.2549,0.7451,0.2454,0.0095
+county,,,,Solano,48,2024,GRTK8,43166.0,10400.0,0.2409,0.7591,0.2454,-0.0045
+county,,,,Solano,48,2024,GRTKKN,5761.0,1872.0,0.3249,0.6751,0.2454,0.0795
+county,,,,Solano,48,2024,Hispanic/Latino,27973.0,7882.0,0.2818,0.7182,0.2454,0.0364
+county,,,,Solano,48,2024,Homeless,1693.0,763.0,0.4507,0.5493,0.2454,0.2053
+county,,,,Solano,48,2024,Male,32497.0,7887.0,0.2427,0.7573,0.2454,-0.0027
+county,,,,Solano,48,2024,Migrant,492.0,96.0,0.1951,0.8049,0.2454,-0.0503
+county,,,,Solano,48,2024,Native Hawaiian/Pacific Islander,291.0,98.0,0.3368,0.6632,0.2454,0.0914
+county,,,,Solano,48,2024,Non-binary,24.0,8.0,0.3333,0.6667,0.2454,0.0879
+county,,,,Solano,48,2024,RD,234.0,53.0,0.2265,0.7735,0.2454,-0.0189
+county,,,,Solano,48,2024,Socioeconomically Disadvantaged,39203.0,12169.0,0.3104,0.6896,0.2454,0.065
+county,,,,Solano,48,2024,Students with Disabilities,9639.0,3301.0,0.3425,0.6575,0.2454,0.0971
+county,,,,Solano,48,2024,Two or More Races,5829.0,1309.0,0.2246,0.7754,0.2454,-0.0208
+county,,,,Solano,48,2024,White,12391.0,2106.0,0.17,0.83,0.2454,-0.0754
+county,,,,Sonoma,49,2024,All Students,66866.0,14142.0,0.2115,0.7885,0.2115,0.0
+county,,,,Sonoma,49,2024,American Indian/Alaska Native,141.0,50.0,0.3546,0.6454,0.2115,0.1431
+county,,,,Sonoma,49,2024,Asian,1614.0,180.0,0.1115,0.8885,0.2115,-0.1
+county,,,,Sonoma,49,2024,Black/African American,678.0,129.0,0.1903,0.8097,0.2115,-0.0212
+county,,,,Sonoma,49,2024,English Learners,13533.0,3398.0,0.2511,0.7489,0.2115,0.0396
+county,,,,Sonoma,49,2024,Female,32392.0,6916.0,0.2135,0.7865,0.2115,0.002
+county,,,,Sonoma,49,2024,Filipino,181.0,14.0,0.0773,0.9227,0.2115,-0.1342
+county,,,,Sonoma,49,2024,Foster,61.0,34.0,0.5574,0.4426,0.2115,0.3459
+county,,,,Sonoma,49,2024,GR13,14036.0,2309.0,0.1645,0.8355,0.2115,-0.047
+county,,,,Sonoma,49,2024,GR46,14249.0,2349.0,0.1649,0.8351,0.2115,-0.0466
+county,,,,Sonoma,49,2024,GR78,10203.0,2096.0,0.2054,0.7946,0.2115,-0.0061
+county,,,,Sonoma,49,2024,GR912,21501.0,5633.0,0.262,0.738,0.2115,0.0505
+county,,,,Sonoma,49,2024,GRTK8,45361.0,8509.0,0.1876,0.8124,0.2115,-0.0239
+county,,,,Sonoma,49,2024,GRTKKN,6728.0,1703.0,0.2531,0.7469,0.2115,0.0416
+county,,,,Sonoma,49,2024,Hispanic/Latino,33326.0,8148.0,0.2445,0.7555,0.2115,0.033
+county,,,,Sonoma,49,2024,Homeless,1100.0,414.0,0.3764,0.6236,0.2115,0.1649
+county,,,,Sonoma,49,2024,Male,34141.0,7111.0,0.2083,0.7917,0.2115,-0.0032
+county,,,,Sonoma,49,2024,Migrant,1108.0,207.0,0.1868,0.8132,0.2115,-0.0247
+county,,,,Sonoma,49,2024,Native Hawaiian/Pacific Islander,95.0,32.0,0.3368,0.6632,0.2115,0.1253
+county,,,,Sonoma,49,2024,Non-binary,95.0,25.0,0.2632,0.7368,0.2115,0.0517
+county,,,,Sonoma,49,2024,RD,350.0,78.0,0.2229,0.7771,0.2115,0.0114
+county,,,,Sonoma,49,2024,Socioeconomically Disadvantaged,36835.0,9657.0,0.2622,0.7378,0.2115,0.0507
+county,,,,Sonoma,49,2024,Students with Disabilities,11196.0,3485.0,0.3113,0.6887,0.2115,0.0998
+county,,,,Sonoma,49,2024,Two or More Races,3421.0,648.0,0.1894,0.8106,0.2115,-0.0221
+county,,,,Sonoma,49,2024,White,24876.0,4268.0,0.1716,0.8284,0.2115,-0.0399
+county,,,,Stanislaus,50,2024,All Students,113750.0,22282.0,0.1959,0.8041,0.1959,0.0
+county,,,,Stanislaus,50,2024,American Indian/Alaska Native,65.0,22.0,0.3385,0.6615,0.1959,0.1426
+county,,,,Stanislaus,50,2024,Asian,4902.0,585.0,0.1193,0.8807,0.1959,-0.0766
+county,,,,Stanislaus,50,2024,Black/African American,2101.0,596.0,0.2837,0.7163,0.1959,0.0878
+county,,,,Stanislaus,50,2024,English Learners,29536.0,5925.0,0.2006,0.7994,0.1959,0.0047
+county,,,,Stanislaus,50,2024,Female,55577.0,10849.0,0.1952,0.8048,0.1959,-0.0007
+county,,,,Stanislaus,50,2024,Filipino,496.0,23.0,0.0464,0.9536,0.1959,-0.1495
+county,,,,Stanislaus,50,2024,Foster,112.0,43.0,0.3839,0.6161,0.1959,0.188
+county,,,,Stanislaus,50,2024,GR13,24460.0,3718.0,0.152,0.848,0.1959,-0.0439
+county,,,,Stanislaus,50,2024,GR46,24897.0,3500.0,0.1406,0.8594,0.1959,-0.0553
+county,,,,Stanislaus,50,2024,GR78,17259.0,3450.0,0.1999,0.8001,0.1959,0.004
+county,,,,Stanislaus,50,2024,GR912,36864.0,9227.0,0.2503,0.7497,0.1959,0.0544
+county,,,,Stanislaus,50,2024,GRTK8,76874.0,13052.0,0.1698,0.8302,0.1959,-0.0261
+county,,,,Stanislaus,50,2024,GRTKKN,10186.0,2368.0,0.2325,0.7675,0.1959,0.0366
+county,,,,Stanislaus,50,2024,Hispanic/Latino,74611.0,15473.0,0.2074,0.7926,0.1959,0.0115
+county,,,,Stanislaus,50,2024,Homeless,2388.0,916.0,0.3836,0.6164,0.1959,0.1877
+county,,,,Stanislaus,50,2024,Male,58070.0,11389.0,0.1961,0.8039,0.1959,0.0002
+county,,,,Stanislaus,50,2024,Migrant,1527.0,204.0,0.1336,0.8664,0.1959,-0.0623
+county,,,,Stanislaus,50,2024,Native Hawaiian/Pacific Islander,293.0,53.0,0.1809,0.8191,0.1959,-0.015
+county,,,,Stanislaus,50,2024,Non-binary,0.0,0.0,,,0.1959,
+county,,,,Stanislaus,50,2024,RD,2185.0,443.0,0.2027,0.7973,0.1959,0.0068
+county,,,,Stanislaus,50,2024,Socioeconomically Disadvantaged,84172.0,18742.0,0.2227,0.7773,0.1959,0.0268
+county,,,,Stanislaus,50,2024,Students with Disabilities,16120.0,4205.0,0.2609,0.7391,0.1959,0.065
+county,,,,Stanislaus,50,2024,Two or More Races,3226.0,647.0,0.2006,0.7994,0.1959,0.0047
+county,,,,Stanislaus,50,2024,White,23376.0,3895.0,0.1666,0.8334,0.1959,-0.0293
+county,,,,Sutter,51,2024,All Students,26368.0,3833.0,0.1454,0.8546,0.1454,0.0
+county,,,,Sutter,51,2024,American Indian/Alaska Native,31.0,5.0,0.1613,0.8387,0.1454,0.0159
+county,,,,Sutter,51,2024,Asian,3261.0,303.0,0.0929,0.9071,0.1454,-0.0525
+county,,,,Sutter,51,2024,Black/African American,581.0,86.0,0.148,0.852,0.1454,0.0026
+county,,,,Sutter,51,2024,English Learners,4305.0,653.0,0.1517,0.8483,0.1454,0.0063
+county,,,,Sutter,51,2024,Female,12850.0,1845.0,0.1436,0.8564,0.1454,-0.0018
+county,,,,Sutter,51,2024,Filipino,118.0,0.0,0.0,1.0,0.1454,-0.1454
+county,,,,Sutter,51,2024,Foster,24.0,5.0,0.2083,0.7917,0.1454,0.0629
+county,,,,Sutter,51,2024,GR13,5763.0,624.0,0.1083,0.8917,0.1454,-0.0371
+county,,,,Sutter,51,2024,GR46,5879.0,686.0,0.1167,0.8833,0.1454,-0.0287
+county,,,,Sutter,51,2024,GR78,4060.0,630.0,0.1552,0.8448,0.1454,0.0098
+county,,,,Sutter,51,2024,GR912,8051.0,1466.0,0.1821,0.8179,0.1454,0.0367
+county,,,,Sutter,51,2024,GRTK8,18310.0,2365.0,0.1292,0.8708,0.1454,-0.0162
+county,,,,Sutter,51,2024,GRTKKN,2585.0,422.0,0.1632,0.8368,0.1454,0.0178
+county,,,,Sutter,51,2024,Hispanic/Latino,10107.0,1826.0,0.1807,0.8193,0.1454,0.0353
+county,,,,Sutter,51,2024,Homeless,482.0,131.0,0.2718,0.7282,0.1454,0.1264
+county,,,,Sutter,51,2024,Male,13488.0,1979.0,0.1467,0.8533,0.1454,0.0013
+county,,,,Sutter,51,2024,Migrant,648.0,82.0,0.1265,0.8735,0.1454,-0.0189
+county,,,,Sutter,51,2024,Native Hawaiian/Pacific Islander,53.0,5.0,0.0943,0.9057,0.1454,-0.0511
+county,,,,Sutter,51,2024,Non-binary,12.0,2.0,0.1667,0.8333,0.1454,0.0213
+county,,,,Sutter,51,2024,RD,682.0,55.0,0.0806,0.9194,0.1454,-0.0648
+county,,,,Sutter,51,2024,Socioeconomically Disadvantaged,16625.0,3078.0,0.1851,0.8149,0.1454,0.0397
+county,,,,Sutter,51,2024,Students with Disabilities,3690.0,903.0,0.2447,0.7553,0.1454,0.0993
+county,,,,Sutter,51,2024,Two or More Races,1519.0,263.0,0.1731,0.8269,0.1454,0.0277
+county,,,,Sutter,51,2024,White,9487.0,1145.0,0.1207,0.8793,0.1454,-0.0247
+county,,,,Tehama,52,2024,All Students,11694.0,2185.0,0.1868,0.8132,0.1868,0.0
+county,,,,Tehama,52,2024,American Indian/Alaska Native,106.0,33.0,0.3113,0.6887,0.1868,0.1245
+county,,,,Tehama,52,2024,Asian,45.0,1.0,0.0222,0.9778,0.1868,-0.1646
+county,,,,Tehama,52,2024,Black/African American,27.0,8.0,0.2963,0.7037,0.1868,0.1095
+county,,,,Tehama,52,2024,English Learners,2173.0,344.0,0.1583,0.8417,0.1868,-0.0285
+county,,,,Tehama,52,2024,Female,5539.0,990.0,0.1787,0.8213,0.1868,-0.0081
+county,,,,Tehama,52,2024,Filipino,0.0,0.0,,,0.1868,
+county,,,,Tehama,52,2024,Foster,60.0,16.0,0.2667,0.7333,0.1868,0.0799
+county,,,,Tehama,52,2024,GR13,2600.0,365.0,0.1404,0.8596,0.1868,-0.0464
+county,,,,Tehama,52,2024,GR46,2568.0,358.0,0.1394,0.8606,0.1868,-0.0474
+county,,,,Tehama,52,2024,GR78,1797.0,332.0,0.1848,0.8152,0.1868,-0.002
+county,,,,Tehama,52,2024,GR912,3477.0,805.0,0.2315,0.7685,0.1868,0.0447
+county,,,,Tehama,52,2024,GRTK8,8215.0,1380.0,0.168,0.832,0.1868,-0.0188
+county,,,,Tehama,52,2024,GRTKKN,1182.0,297.0,0.2513,0.7487,0.1868,0.0645
+county,,,,Tehama,52,2024,Hispanic/Latino,5420.0,929.0,0.1714,0.8286,0.1868,-0.0154
+county,,,,Tehama,52,2024,Homeless,661.0,206.0,0.3116,0.6884,0.1868,0.1248
+county,,,,Tehama,52,2024,Male,6123.0,1177.0,0.1922,0.8078,0.1868,0.0054
+county,,,,Tehama,52,2024,Migrant,56.0,6.0,0.1071,0.8929,0.1868,-0.0797
+county,,,,Tehama,52,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1868,
+county,,,,Tehama,52,2024,Non-binary,0.0,0.0,,,0.1868,
+county,,,,Tehama,52,2024,RD,35.0,5.0,0.1429,0.8571,0.1868,-0.0439
+county,,,,Tehama,52,2024,Socioeconomically Disadvantaged,9046.0,1868.0,0.2065,0.7935,0.1868,0.0197
+county,,,,Tehama,52,2024,Students with Disabilities,1828.0,466.0,0.2549,0.7451,0.1868,0.0681
+county,,,,Tehama,52,2024,Two or More Races,265.0,64.0,0.2415,0.7585,0.1868,0.0547
+county,,,,Tehama,52,2024,White,5307.0,1023.0,0.1928,0.8072,0.1868,0.006
+county,,,,Trinity,53,2024,All Students,1730.0,413.0,0.2387,0.7613,0.2387,0.0
+county,,,,Trinity,53,2024,American Indian/Alaska Native,37.0,10.0,0.2703,0.7297,0.2387,0.0316
+county,,,,Trinity,53,2024,Asian,102.0,11.0,0.1078,0.8922,0.2387,-0.1309
+county,,,,Trinity,53,2024,Black/African American,0.0,0.0,,,0.2387,
+county,,,,Trinity,53,2024,English Learners,40.0,5.0,0.125,0.875,0.2387,-0.1137
+county,,,,Trinity,53,2024,Female,804.0,169.0,0.2102,0.7898,0.2387,-0.0285
+county,,,,Trinity,53,2024,Filipino,0.0,0.0,,,0.2387,
+county,,,,Trinity,53,2024,Foster,35.0,17.0,0.4857,0.5143,0.2387,0.247
+county,,,,Trinity,53,2024,GR13,343.0,39.0,0.1137,0.8863,0.2387,-0.125
+county,,,,Trinity,53,2024,GR46,364.0,46.0,0.1264,0.8736,0.2387,-0.1123
+county,,,,Trinity,53,2024,GR78,226.0,34.0,0.1504,0.8496,0.2387,-0.0883
+county,,,,Trinity,53,2024,GR912,600.0,237.0,0.395,0.605,0.2387,0.1563
+county,,,,Trinity,53,2024,GRTK8,1117.0,165.0,0.1477,0.8523,0.2387,-0.091
+county,,,,Trinity,53,2024,GRTKKN,152.0,36.0,0.2368,0.7632,0.2387,-0.0019
+county,,,,Trinity,53,2024,Hispanic/Latino,149.0,31.0,0.2081,0.7919,0.2387,-0.0306
+county,,,,Trinity,53,2024,Homeless,196.0,67.0,0.3418,0.6582,0.2387,0.1031
+county,,,,Trinity,53,2024,Male,887.0,227.0,0.2559,0.7441,0.2387,0.0172
+county,,,,Trinity,53,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2387,
+county,,,,Trinity,53,2024,Non-binary,0.0,0.0,,,0.2387,
+county,,,,Trinity,53,2024,RD,0.0,0.0,,,0.2387,
+county,,,,Trinity,53,2024,Socioeconomically Disadvantaged,1288.0,346.0,0.2686,0.7314,0.2387,0.0299
+county,,,,Trinity,53,2024,Students with Disabilities,260.0,76.0,0.2923,0.7077,0.2387,0.0536
+county,,,,Trinity,53,2024,Two or More Races,102.0,30.0,0.2941,0.7059,0.2387,0.0554
+county,,,,Trinity,53,2024,White,1176.0,299.0,0.2543,0.7457,0.2387,0.0156
+county,,,,Tulare,54,2024,All Students,109819.0,18839.0,0.1715,0.8285,0.1715,0.0
+county,,,,Tulare,54,2024,American Indian/Alaska Native,365.0,147.0,0.4027,0.5973,0.1715,0.2312
+county,,,,Tulare,54,2024,Asian,1635.0,214.0,0.1309,0.8691,0.1715,-0.0406
+county,,,,Tulare,54,2024,Black/African American,830.0,180.0,0.2169,0.7831,0.1715,0.0454
+county,,,,Tulare,54,2024,English Learners,27186.0,4319.0,0.1589,0.8411,0.1715,-0.0126
+county,,,,Tulare,54,2024,Female,53577.0,9034.0,0.1686,0.8314,0.1715,-0.0029
+county,,,,Tulare,54,2024,Filipino,400.0,24.0,0.06,0.94,0.1715,-0.1115
+county,,,,Tulare,54,2024,Foster,546.0,188.0,0.3443,0.6557,0.1715,0.1728
+county,,,,Tulare,54,2024,GR13,23080.0,3397.0,0.1472,0.8528,0.1715,-0.0243
+county,,,,Tulare,54,2024,GR46,24611.0,3350.0,0.1361,0.8639,0.1715,-0.0354
+county,,,,Tulare,54,2024,GR78,17045.0,2786.0,0.1634,0.8366,0.1715,-0.0081
+county,,,,Tulare,54,2024,GR912,34727.0,6876.0,0.198,0.802,0.1715,0.0265
+county,,,,Tulare,54,2024,GRTK8,75040.0,11934.0,0.159,0.841,0.1715,-0.0125
+county,,,,Tulare,54,2024,GRTKKN,10241.0,2369.0,0.2313,0.7687,0.1715,0.0598
+county,,,,Tulare,54,2024,Hispanic/Latino,87333.0,15067.0,0.1725,0.8275,0.1715,0.001
+county,,,,Tulare,54,2024,Homeless,3856.0,1074.0,0.2785,0.7215,0.1715,0.107
+county,,,,Tulare,54,2024,Male,56079.0,9728.0,0.1735,0.8265,0.1715,0.002
+county,,,,Tulare,54,2024,Migrant,3987.0,441.0,0.1106,0.8894,0.1715,-0.0609
+county,,,,Tulare,54,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.1715,
+county,,,,Tulare,54,2024,Non-binary,11.0,9.0,0.8182,0.1818,0.1715,0.6467
+county,,,,Tulare,54,2024,RD,1091.0,160.0,0.1467,0.8533,0.1715,-0.0248
+county,,,,Tulare,54,2024,Socioeconomically Disadvantaged,86943.0,16473.0,0.1895,0.8105,0.1715,0.018
+county,,,,Tulare,54,2024,Students with Disabilities,12975.0,3272.0,0.2522,0.7478,0.1715,0.0807
+county,,,,Tulare,54,2024,Two or More Races,1391.0,276.0,0.1984,0.8016,0.1715,0.0269
+county,,,,Tulare,54,2024,White,14368.0,2246.0,0.1563,0.8437,0.1715,-0.0152
+county,,,,Tuolumne,55,2024,All Students,6122.0,1427.0,0.2331,0.7669,0.2331,0.0
+county,,,,Tuolumne,55,2024,American Indian/Alaska Native,106.0,43.0,0.4057,0.5943,0.2331,0.1726
+county,,,,Tuolumne,55,2024,Asian,11.0,0.0,0.0,1.0,0.2331,-0.2331
+county,,,,Tuolumne,55,2024,Black/African American,0.0,0.0,,,0.2331,
+county,,,,Tuolumne,55,2024,English Learners,118.0,21.0,0.178,0.822,0.2331,-0.0551
+county,,,,Tuolumne,55,2024,Female,2987.0,668.0,0.2236,0.7764,0.2331,-0.0095
+county,,,,Tuolumne,55,2024,Filipino,13.0,1.0,0.0769,0.9231,0.2331,-0.1562
+county,,,,Tuolumne,55,2024,Foster,0.0,0.0,,,0.2331,
+county,,,,Tuolumne,55,2024,GR13,1254.0,225.0,0.1794,0.8206,0.2331,-0.0537
+county,,,,Tuolumne,55,2024,GR46,1325.0,284.0,0.2143,0.7857,0.2331,-0.0188
+county,,,,Tuolumne,55,2024,GR78,880.0,205.0,0.233,0.767,0.2331,-0.0001
+county,,,,Tuolumne,55,2024,GR912,2097.0,544.0,0.2594,0.7406,0.2331,0.0263
+county,,,,Tuolumne,55,2024,GRTK8,4018.0,878.0,0.2185,0.7815,0.2331,-0.0146
+county,,,,Tuolumne,55,2024,GRTKKN,533.0,154.0,0.2889,0.7111,0.2331,0.0558
+county,,,,Tuolumne,55,2024,Hispanic/Latino,1201.0,309.0,0.2573,0.7427,0.2331,0.0242
+county,,,,Tuolumne,55,2024,Homeless,238.0,117.0,0.4916,0.5084,0.2331,0.2585
+county,,,,Tuolumne,55,2024,Male,3096.0,734.0,0.2371,0.7629,0.2331,0.004
+county,,,,Tuolumne,55,2024,Migrant,0.0,0.0,,,0.2331,
+county,,,,Tuolumne,55,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2331,
+county,,,,Tuolumne,55,2024,Non-binary,0.0,0.0,,,0.2331,
+county,,,,Tuolumne,55,2024,RD,44.0,9.0,0.2045,0.7955,0.2331,-0.0286
+county,,,,Tuolumne,55,2024,Socioeconomically Disadvantaged,3238.0,971.0,0.2999,0.7001,0.2331,0.0668
+county,,,,Tuolumne,55,2024,Students with Disabilities,1047.0,326.0,0.3114,0.6886,0.2331,0.0783
+county,,,,Tuolumne,55,2024,Two or More Races,321.0,73.0,0.2274,0.7726,0.2331,-0.0057
+county,,,,Tuolumne,55,2024,White,4176.0,906.0,0.217,0.783,0.2331,-0.0161
+county,,,,Ventura,56,2024,All Students,130004.0,24685.0,0.1899,0.8101,0.1899,0.0
+county,,,,Ventura,56,2024,American Indian/Alaska Native,0.0,0.0,,,0.1899,
+county,,,,Ventura,56,2024,Asian,5211.0,342.0,0.0656,0.9344,0.1899,-0.1243
+county,,,,Ventura,56,2024,Black/African American,1024.0,181.0,0.1768,0.8232,0.1899,-0.0131
+county,,,,Ventura,56,2024,English Learners,28301.0,5981.0,0.2113,0.7887,0.1899,0.0214
+county,,,,Ventura,56,2024,Female,63426.0,12031.0,0.1897,0.8103,0.1899,-0.0002
+county,,,,Ventura,56,2024,Filipino,1727.0,162.0,0.0938,0.9062,0.1899,-0.0961
+county,,,,Ventura,56,2024,Foster,118.0,83.0,0.7034,0.2966,0.1899,0.5135
+county,,,,Ventura,56,2024,GR13,26003.0,4054.0,0.1559,0.8441,0.1899,-0.034
+county,,,,Ventura,56,2024,GR46,27638.0,3942.0,0.1426,0.8574,0.1899,-0.0473
+county,,,,Ventura,56,2024,GR78,19354.0,3489.0,0.1803,0.8197,0.1899,-0.0096
+county,,,,Ventura,56,2024,GR912,44848.0,10323.0,0.2302,0.7698,0.1899,0.0403
+county,,,,Ventura,56,2024,GRTK8,85134.0,14354.0,0.1686,0.8314,0.1899,-0.0213
+county,,,,Ventura,56,2024,GRTKKN,12080.0,2862.0,0.2369,0.7631,0.1899,0.047
+county,,,,Ventura,56,2024,Hispanic/Latino,81932.0,18422.0,0.2248,0.7752,0.1899,0.0349
+county,,,,Ventura,56,2024,Homeless,8530.0,2587.0,0.3033,0.6967,0.1899,0.1134
+county,,,,Ventura,56,2024,Male,66399.0,12600.0,0.1898,0.8102,0.1899,-0.0001
+county,,,,Ventura,56,2024,Migrant,1210.0,199.0,0.1645,0.8355,0.1899,-0.0254
+county,,,,Ventura,56,2024,Native Hawaiian/Pacific Islander,13.0,5.0,0.3846,0.6154,0.1899,0.1947
+county,,,,Ventura,56,2024,Non-binary,67.0,20.0,0.2985,0.7015,0.1899,0.1086
+county,,,,Ventura,56,2024,RD,56.0,14.0,0.25,0.75,0.1899,0.0601
+county,,,,Ventura,56,2024,Socioeconomically Disadvantaged,75820.0,18301.0,0.2414,0.7586,0.1899,0.0515
+county,,,,Ventura,56,2024,Students with Disabilities,21255.0,6099.0,0.2869,0.7131,0.1899,0.097
+county,,,,Ventura,56,2024,Two or More Races,4666.0,513.0,0.1099,0.8901,0.1899,-0.08
+county,,,,Ventura,56,2024,White,32948.0,4549.0,0.1381,0.8619,0.1899,-0.0518
+county,,,,Yolo,57,2024,All Students,31565.0,6442.0,0.2041,0.7959,0.2041,0.0
+county,,,,Yolo,57,2024,American Indian/Alaska Native,0.0,0.0,,,0.2041,
+county,,,,Yolo,57,2024,Asian,3419.0,374.0,0.1094,0.8906,0.2041,-0.0947
+county,,,,Yolo,57,2024,Black/African American,750.0,247.0,0.3293,0.6707,0.2041,0.1252
+county,,,,Yolo,57,2024,English Learners,5825.0,1370.0,0.2352,0.7648,0.2041,0.0311
+county,,,,Yolo,57,2024,Female,15381.0,3171.0,0.2062,0.7938,0.2041,0.0021
+county,,,,Yolo,57,2024,Filipino,164.0,16.0,0.0976,0.9024,0.2041,-0.1065
+county,,,,Yolo,57,2024,Foster,22.0,5.0,0.2273,0.7727,0.2041,0.0232
+county,,,,Yolo,57,2024,GR13,6996.0,1163.0,0.1662,0.8338,0.2041,-0.0379
+county,,,,Yolo,57,2024,GR46,7105.0,1213.0,0.1707,0.8293,0.2041,-0.0334
+county,,,,Yolo,57,2024,GR78,4791.0,966.0,0.2016,0.7984,0.2041,-0.0025
+county,,,,Yolo,57,2024,GR912,9776.0,2394.0,0.2449,0.7551,0.2041,0.0408
+county,,,,Yolo,57,2024,GRTK8,21772.0,4047.0,0.1859,0.8141,0.2041,-0.0182
+county,,,,Yolo,57,2024,GRTKKN,2869.0,701.0,0.2443,0.7557,0.2041,0.0402
+county,,,,Yolo,57,2024,Hispanic/Latino,15046.0,3756.0,0.2496,0.7504,0.2041,0.0455
+county,,,,Yolo,57,2024,Homeless,622.0,294.0,0.4727,0.5273,0.2041,0.2686
+county,,,,Yolo,57,2024,Male,16070.0,3226.0,0.2007,0.7993,0.2041,-0.0034
+county,,,,Yolo,57,2024,Migrant,612.0,96.0,0.1569,0.8431,0.2041,-0.0472
+county,,,,Yolo,57,2024,Native Hawaiian/Pacific Islander,117.0,25.0,0.2137,0.7863,0.2041,0.0096
+county,,,,Yolo,57,2024,Non-binary,33.0,8.0,0.2424,0.7576,0.2041,0.0383
+county,,,,Yolo,57,2024,RD,286.0,41.0,0.1434,0.8566,0.2041,-0.0607
+county,,,,Yolo,57,2024,Socioeconomically Disadvantaged,18253.0,4973.0,0.2724,0.7276,0.2041,0.0683
+county,,,,Yolo,57,2024,Students with Disabilities,5212.0,1544.0,0.2962,0.7038,0.2041,0.0921
+county,,,,Yolo,57,2024,Two or More Races,1750.0,286.0,0.1634,0.8366,0.2041,-0.0407
+county,,,,Yolo,57,2024,White,9150.0,1439.0,0.1573,0.8427,0.2041,-0.0468
+county,,,,Yuba,58,2024,All Students,17191.0,3736.0,0.2173,0.7827,0.2173,0.0
+county,,,,Yuba,58,2024,American Indian/Alaska Native,100.0,37.0,0.37,0.63,0.2173,0.1527
+county,,,,Yuba,58,2024,Asian,1199.0,84.0,0.0701,0.9299,0.2173,-0.1472
+county,,,,Yuba,58,2024,Black/African American,532.0,138.0,0.2594,0.7406,0.2173,0.0421
+county,,,,Yuba,58,2024,English Learners,2447.0,415.0,0.1696,0.8304,0.2173,-0.0477
+county,,,,Yuba,58,2024,Female,8349.0,1785.0,0.2138,0.7862,0.2173,-0.0035
+county,,,,Yuba,58,2024,Filipino,46.0,3.0,0.0652,0.9348,0.2173,-0.1521
+county,,,,Yuba,58,2024,Foster,76.0,29.0,0.3816,0.6184,0.2173,0.1643
+county,,,,Yuba,58,2024,GR13,3979.0,699.0,0.1757,0.8243,0.2173,-0.0416
+county,,,,Yuba,58,2024,GR46,3823.0,620.0,0.1622,0.8378,0.2173,-0.0551
+county,,,,Yuba,58,2024,GR78,2611.0,567.0,0.2172,0.7828,0.2173,-0.0001
+county,,,,Yuba,58,2024,GR912,5037.0,1432.0,0.2843,0.7157,0.2173,0.067
+county,,,,Yuba,58,2024,GRTK8,12147.0,2303.0,0.1896,0.8104,0.2173,-0.0277
+county,,,,Yuba,58,2024,GRTKKN,1707.0,413.0,0.2419,0.7581,0.2173,0.0246
+county,,,,Yuba,58,2024,Hispanic/Latino,7377.0,1597.0,0.2165,0.7835,0.2173,-0.0008
+county,,,,Yuba,58,2024,Homeless,641.0,243.0,0.3791,0.6209,0.2173,0.1618
+county,,,,Yuba,58,2024,Male,8787.0,1932.0,0.2199,0.7801,0.2173,0.0026
+county,,,,Yuba,58,2024,Migrant,11.0,2.0,0.1818,0.8182,0.2173,-0.0355
+county,,,,Yuba,58,2024,Native Hawaiian/Pacific Islander,0.0,0.0,,,0.2173,
+county,,,,Yuba,58,2024,Non-binary,0.0,0.0,,,0.2173,
+county,,,,Yuba,58,2024,RD,113.0,17.0,0.1504,0.8496,0.2173,-0.0669
+county,,,,Yuba,58,2024,Socioeconomically Disadvantaged,11595.0,3016.0,0.2601,0.7399,0.2173,0.0428
+county,,,,Yuba,58,2024,Students with Disabilities,2925.0,826.0,0.2824,0.7176,0.2173,0.0651
+county,,,,Yuba,58,2024,Two or More Races,1285.0,328.0,0.2553,0.7447,0.2173,0.038
+county,,,,Yuba,58,2024,White,5957.0,1407.0,0.2362,0.7638,0.2173,0.0189

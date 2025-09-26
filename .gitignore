@@ -1,0 +1,7 @@
+.venv
+venv
+.virtual_documents
+lib
+bin
+include
+.ipynb_checkpoints

@@ -1,0 +1,4 @@
+scenario,meets_all_target,avg_shortfall_pp
+conservative,False,6.191428571428571
+expected,False,5.359285714285714
+stretch,False,4.859999999999999

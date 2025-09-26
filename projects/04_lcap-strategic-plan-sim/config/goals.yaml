@@ -1,0 +1,10 @@
+district: San Francisco County Office of Education
+year: latest
+metric: chronic_absent_rate
+target_mode: relative
+target_value: 0.15
+focus_subgroups:
+- English Learners
+- Students with Disabilities
+- Socioeconomically Disadvantaged
+equity_gap_goal_pp: 0.02

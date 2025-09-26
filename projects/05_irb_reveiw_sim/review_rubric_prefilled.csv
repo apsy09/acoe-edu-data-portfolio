@@ -1,0 +1,6 @@
+Criteria,Weight,Score_1to5,Notes
+Minimal risk (privacy & security),0.25,5,"De-identified, encrypted, FERPA aligned"
+Educational benefit (to ACOE students),0.25,4,Directly supports attendance improvement
+FERPA compliance (lawful basis; PII limits),0.2,5,Uses FERPA exceptions appropriately
+Equity impact (benefits without harm),0.2,4,Focus on EL/SPED with mitigations in place
+Alignment with ACOE strategic goals,0.1,5,Supports countywide chronic absenteeism reduction

@@ -1,0 +1,39 @@
+project_title: Tier-1 Attendance Messaging for Middle Grades
+principal_investigator: Apurva Bhave, Ph.D.
+purpose_statement: "Evaluate whether low-cost Tier-1 text reminders to families reduce\
+  \ chronic absenteeism for 6th-8th grade students across two districts (San\
+  \ Francisco COE and Burbank Unified). Expected benefit: improve attendance and equity\
+  \ outcomes for EL/SPED students."
+data_requested:
+  grain: student-level (de-identified)
+  fields:
+  - student_id (hashed)
+  - grade
+  - EL_status
+  - SPED_status
+  - attendance_days_present
+  - attendance_days_absent
+  - school_id
+  - year
+  timeframe: 2024-2025 (Semester 1)
+  suppression_rules: Apply small-N suppression for any subgroup with n<10
+intended_use:
+  research_questions:
+  - "Do Tier-1 texts reduce chronic absenteeism by >=0.5 percentage points in\
+    \ 90 days?"
+  - Are effects larger for English Learners or SPED students?
+  methods_summary: Difference-in-differences with clustered SEs at school level.
+  publications_and_sharing: Aggregate-only; no PII; pre-publication review by ACOE.
+equity_considerations:
+  benefits: Provide targeted outreach to EL and SPED families; accessible communication.
+  risks: Risk of stigmatization if subgroup status exposed.
+  mitigations: De-identification; suppression rules; bilingual messages.
+privacy_and_security:
+  ferpa_alignment: "Yes educational interest basis."
+  de_identification: Hash IDs; strip names/addresses.
+  storage_controls: Encrypted at rest; RBAC; audit logs.
+  retention_and_destruction: Destroy within 90 days after study close.
+approvals_and_contacts:
+  district_sponsor: ACOE Attendance Office
+  it_security_contact: ACOE IT Director (contact@example.org)
+  date_submitted: '2025-09-25'
